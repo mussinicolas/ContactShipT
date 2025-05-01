@@ -1,0 +1,2722 @@
+[
+  {
+    "id": 637457,
+    "direccion": "FORMULARIO DE CONTACTO WEB NUÑEZ",
+    "address": "Bienvenido. Completa el formulario y  te contactamos de inmediato.",
+    "fake_address": "Bienvenido. Completa el formulario y  te contactamos de inmediato.",
+    "ambientes": 1,
+    "superficie_total": 1.0,
+    "precio_usd": 1,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Nuñez",
+    "productor": {
+      "nombre": "Nicolas Mussi",
+      "email": "nicolas.mussi@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 4073814,
+    "direccion": "Propiedad Prueba",
+    "address": "Propiedad Prueba",
+    "fake_address": "Propiedad Prueba",
+    "ambientes": 0,
+    "superficie_total": 0.0,
+    "precio_usd": 1,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Congreso",
+    "productor": {
+      "nombre": "Francisco Alvarado",
+      "email": "francisco.alvarado@roilands.com",
+      "telefono": " 5491153234726"
+    }
+  },
+  {
+    "id": 6608936,
+    "direccion": "Las Azaleas y Las Primulas  ",
+    "address": "Las Azaleas y Las Primulas",
+    "fake_address": "Las Azaleas y Las Primulas",
+    "ambientes": 0,
+    "superficie_total": 0.0,
+    "precio_usd": null,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Monteverde",
+    "productor": {
+      "nombre": "Antonella Di Iorio",
+      "email": "antonella.diiorio@roilands.com",
+      "telefono": " 54 9 230 4581046"
+    }
+  },
+  {
+    "id": 6902348,
+    "direccion": "Estancia Villa María",
+    "address": "Estancia Villa maria, Estancia Villa María, Carlos Spegazzini",
+    "fake_address": "Estancia Villa maria, Estancia Villa María, Carlos Spegazzini",
+    "ambientes": 0,
+    "superficie_total": 0.0,
+    "precio_usd": null,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Estancia Villa Maria",
+    "productor": {
+      "nombre": "Nicolas Mussi",
+      "email": "nicolas.mussi@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 4358185,
+    "direccion": "Vuelta de Obligado 3046 8 C",
+    "address": "Vuelta de Obligado al 3000",
+    "fake_address": "Vuelta de Obligado al 3000",
+    "ambientes": 2,
+    "superficie_total": 33.0,
+    "precio_usd": null,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Nuñez",
+    "productor": {
+      "nombre": "Mónica Almandoz",
+      "email": "monica.almandoz@roilands.com",
+      "telefono": "5491164142898"
+    }
+  },
+  {
+    "id": 2267006,
+    "direccion": "Matienzo 2539 1ro ",
+    "address": "Matienzo al 2500",
+    "fake_address": "Matienzo al 2500",
+    "ambientes": 1,
+    "superficie_total": 29.0,
+    "precio_usd": null,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Palermo",
+    "productor": {
+      "nombre": "Eugenia Basiluk",
+      "email": "eugenia.basiluk@roilands.com",
+      "telefono": "5491155966871"
+    }
+  },
+  {
+    "id": 6922185,
+    "direccion": "Congreso 2920 2",
+    "address": "Congreso al 2900",
+    "fake_address": "Congreso al 2900",
+    "ambientes": 2,
+    "superficie_total": 55.0,
+    "precio_usd": null,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "San Andrés",
+    "productor": {
+      "nombre": "Soledad Bressan",
+      "email": "soledad.bressan@roilands.com",
+      "telefono": "+5491151332246"
+    }
+  },
+  {
+    "id": 6874611,
+    "direccion": "Mendoza  2977 ",
+    "address": "Mendoza  al 2900",
+    "fake_address": "Mendoza  al 2900",
+    "ambientes": 2,
+    "superficie_total": 51.0,
+    "precio_usd": null,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Belgrano R",
+    "productor": {
+      "nombre": "Augusto Dadin",
+      "email": "augusto.dadin@roilands.com",
+      "telefono": "+5491159548690"
+    }
+  },
+  {
+    "id": 6337847,
+    "direccion": "Paraguay 900 | Depto. Monoambiente 1.3",
+    "address": "Paraguay al 900",
+    "fake_address": "Paraguay al 900",
+    "ambientes": 1,
+    "superficie_total": 27.0,
+    "precio_usd": 550,
+    "apta_credito": true,
+    "apta_mascotas": false,
+    "barrio": "Retiro",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 3960074,
+    "direccion": "Freire 2176 4 piso 32",
+    "address": "Freire al 2100",
+    "fake_address": "Freire al 2100",
+    "ambientes": 1,
+    "superficie_total": 39.0,
+    "precio_usd": 550,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Belgrano R",
+    "productor": {
+      "nombre": "Mónica Almandoz",
+      "email": "monica.almandoz@roilands.com",
+      "telefono": "5491164142898"
+    }
+  },
+  {
+    "id": 6860270,
+    "direccion": "Araoz  472 PB 2",
+    "address": "Araoz  al 400",
+    "fake_address": "Araoz  al 400",
+    "ambientes": 2,
+    "superficie_total": 65.0,
+    "precio_usd": 600,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Villa Crespo",
+    "productor": {
+      "nombre": "Mónica Almandoz",
+      "email": "monica.almandoz@roilands.com",
+      "telefono": "5491164142898"
+    }
+  },
+  {
+    "id": 6846792,
+    "direccion": "La Pampa  1383 8 A",
+    "address": "La Pampa  al 1300",
+    "fake_address": "La Pampa  al 1300",
+    "ambientes": 2,
+    "superficie_total": 39.0,
+    "precio_usd": null,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Belgrano Chico",
+    "productor": {
+      "nombre": "Paula Fiedler",
+      "email": "paula.fiedler@roilands.com",
+      "telefono": "1164653221"
+    }
+  },
+  {
+    "id": 6930033,
+    "direccion": "Gral.  La Madrid  846 Casa con alquiler Comercial.",
+    "address": "Gral, La Madrid  al 800",
+    "fake_address": "Gral, La Madrid  al 800",
+    "ambientes": 4,
+    "superficie_total": 175.0,
+    "precio_usd": null,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Villa Lynch",
+    "productor": {
+      "nombre": "Cecilia Casalanguida",
+      "email": "cecilia.casalanguida@roilands.com",
+      "telefono": " 541130383631"
+    }
+  },
+  {
+    "id": 6892230,
+    "direccion": "Costa Rica 5175 2",
+    "address": "Costa Rica al 5100",
+    "fake_address": "Costa Rica al 5100",
+    "ambientes": 3,
+    "superficie_total": 70.0,
+    "precio_usd": null,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Palermo Soho",
+    "productor": {
+      "nombre": "Mónica Almandoz",
+      "email": "monica.almandoz@roilands.com",
+      "telefono": "5491164142898"
+    }
+  },
+  {
+    "id": 6902320,
+    "direccion": "La Cañada de pilar ''Los Tilos\" ",
+    "address": "La Cañada de pilar ''Los Tilos\" ",
+    "fake_address": "La Cañada de pilar ''Los Tilos\" ",
+    "ambientes": 5,
+    "superficie_total": 180.0,
+    "precio_usd": 1300,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "La cañada de Pilar",
+    "productor": {
+      "nombre": "Lucia Arrigone",
+      "email": "lucia.arrigone@roilands.com",
+      "telefono": " 5491131404484"
+    }
+  },
+  {
+    "id": 6688004,
+    "direccion": "Av. Del Libertador 3500",
+    "address": "Av. Del Libertador al 3500",
+    "fake_address": "Av. Del Libertador al 3500",
+    "ambientes": 4,
+    "superficie_total": 155.0,
+    "precio_usd": 1950,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Palermo",
+    "productor": {
+      "nombre": "Carolina Vidal",
+      "email": "carolina.vidal@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6803405,
+    "direccion": "Barrio San Sebastian Sector 13 455 ",
+    "address": "Barrio Privado San Sebastián Sector 13",
+    "fake_address": "Barrio Privado San Sebastián Sector 13",
+    "ambientes": 0,
+    "superficie_total": 0.0,
+    "precio_usd": 28000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "San Sebastian",
+    "productor": {
+      "nombre": "Julieta Garcia",
+      "email": "julieta.garcia@roilands.com",
+      "telefono": "541140457712"
+    }
+  },
+  {
+    "id": 6427273,
+    "direccion": "Lote 637 Pinares Club & Golf Capilla del Señor   ",
+    "address": "Lote Pinares Country Club & Golf Capilla del Señor ",
+    "fake_address": "Lote Pinares Country Club & Golf Capilla del Señor ",
+    "ambientes": 0,
+    "superficie_total": 0.0,
+    "precio_usd": 28000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Capilla Del Señor",
+    "productor": {
+      "nombre": "Susana Juncal",
+      "email": "susana.juncal@roilands.com",
+      "telefono": "11 5756-1083"
+    }
+  },
+  {
+    "id": 6614405,
+    "direccion": "Canning y Guadalajara Tortuguitas",
+    "address": "Canning al 3200",
+    "fake_address": "Canning al 3200",
+    "ambientes": 0,
+    "superficie_total": 200.0,
+    "precio_usd": 29000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Tortuguitas",
+    "productor": {
+      "nombre": "Ines Lazarte",
+      "email": "ines.lazarte@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6449963,
+    "direccion": "Pinares 631 ",
+    "address": "Pinares al 600",
+    "fake_address": "Pinares al 600",
+    "ambientes": 0,
+    "superficie_total": 0.0,
+    "precio_usd": 30000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Escobar",
+    "productor": {
+      "nombre": "Soledad Bressan",
+      "email": "soledad.bressan@roilands.com",
+      "telefono": "+5491151332246"
+    }
+  },
+  {
+    "id": 6722463,
+    "direccion": "Lote 195  ",
+    "address": "B° San Eduardo - Pilar del Este",
+    "fake_address": "B° San Eduardo - Pilar del Este",
+    "ambientes": 0,
+    "superficie_total": 0.0,
+    "precio_usd": 35000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "San Eduardo",
+    "productor": {
+      "nombre": "Antonella Di Iorio",
+      "email": "antonella.diiorio@roilands.com",
+      "telefono": " 54 9 230 4581046"
+    }
+  },
+  {
+    "id": 5967724,
+    "direccion": "Pueblo Nuevo 244 - 1.050 mts2 - Rocha",
+    "address": "Pueblo Nuevo, Lote 1050m2 , Km 244 Ruta 10 Rocha Uruguay",
+    "fake_address": "Pueblo Nuevo, Lote 1050m2 , Km 244 Ruta 10 Rocha Uruguay",
+    "ambientes": 0,
+    "superficie_total": 1050.0,
+    "precio_usd": 38000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Rocha",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 5982154,
+    "direccion": "Pueblo Nuevo  Lotes 244 - 1.072 mts2 - Rocha",
+    "address": "Pueblo Nuevo, Terrenos, Km 244 Ruta 10 Rocha Uruguay",
+    "fake_address": "Pueblo Nuevo, Terrenos, Km 244 Ruta 10 Rocha Uruguay",
+    "ambientes": 0,
+    "superficie_total": 0.0,
+    "precio_usd": 41800,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Rocha",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 6703019,
+    "direccion": "Peron  1963 2 \"L\"",
+    "address": "Peron  al 1900",
+    "fake_address": "Peron  al 1900",
+    "ambientes": 1,
+    "superficie_total": 25.0,
+    "precio_usd": 42000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Congreso",
+    "productor": {
+      "nombre": "Eugenia Basiluk",
+      "email": "eugenia.basiluk@roilands.com",
+      "telefono": "5491155966871"
+    }
+  },
+  {
+    "id": 6906457,
+    "direccion": "Terreno en Venta  Los Cardales Country Club",
+    "address": "Terreno en Country Club Los Cardales",
+    "fake_address": "Terreno en Country Club Los Cardales",
+    "ambientes": 0,
+    "superficie_total": 700.0,
+    "precio_usd": 45000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Los Cardales",
+    "productor": {
+      "nombre": "Vanesa Mosca",
+      "email": "vanesa.mosca@roilands.com",
+      "telefono": "1158911109"
+    }
+  },
+  {
+    "id": 6917118,
+    "direccion": "Alma Fuerte 1914  - Villa Maipu.",
+    "address": "Alma Fuerte al 1900 Departamento en Venta ",
+    "fake_address": "Alma Fuerte al 1900 Departamento en Venta ",
+    "ambientes": 2,
+    "superficie_total": 44.0,
+    "precio_usd": 45000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "V.Maipu",
+    "productor": {
+      "nombre": "Cecilia Casalanguida",
+      "email": "cecilia.casalanguida@roilands.com",
+      "telefono": " 541130383631"
+    }
+  },
+  {
+    "id": 6918298,
+    "direccion": "Jujuy  537 7° 34",
+    "address": "Jujuy  al 500",
+    "fake_address": "Jujuy  al 500",
+    "ambientes": 1,
+    "superficie_total": 37.6,
+    "precio_usd": 47000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "San Cristobal",
+    "productor": {
+      "nombre": "Mónica Almandoz",
+      "email": "monica.almandoz@roilands.com",
+      "telefono": "5491164142898"
+    }
+  },
+  {
+    "id": 6876341,
+    "direccion": "A. Magariño Cervantes  1330 ",
+    "address": "A. Magariño Cervantes  al 1300",
+    "fake_address": "A. Magariño Cervantes  al 1300",
+    "ambientes": 1,
+    "superficie_total": 28.0,
+    "precio_usd": 52000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Villa del Parque",
+    "productor": {
+      "nombre": "Florencia Puricelli",
+      "email": "florencia.puricelli@roilands.com",
+      "telefono": "9 11 6903-7785"
+    }
+  },
+  {
+    "id": 6387696,
+    "direccion": "Unanué 572 11D",
+    "address": "Unanué al 500",
+    "fake_address": "Unanué al 500",
+    "ambientes": 3,
+    "superficie_total": 75.0,
+    "precio_usd": 58800,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Villa Celina",
+    "productor": {
+      "nombre": "Juan Sebastian Di Siervi",
+      "email": "sebastian.disiervi@roilands.com",
+      "telefono": "1169176487"
+    }
+  },
+  {
+    "id": 6430185,
+    "direccion": "Valentin Gomez  3336 10 B",
+    "address": "Valentin Gomez  al 3300",
+    "fake_address": "Valentin Gomez  al 3300",
+    "ambientes": 2,
+    "superficie_total": 31.0,
+    "precio_usd": 60000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Almagro",
+    "productor": {
+      "nombre": "Adrian Gotusso",
+      "email": "adrian.gotusso@roilands.com",
+      "telefono": "5491154615842"
+    }
+  },
+  {
+    "id": 6928325,
+    "direccion": "Marcelo T. De Alvear 400",
+    "address": "Marcelo T. De Alvear al 400",
+    "fake_address": "Marcelo T. De Alvear al 400",
+    "ambientes": 1,
+    "superficie_total": 33.0,
+    "precio_usd": 63000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Retiro",
+    "productor": {
+      "nombre": "Carolina Vidal",
+      "email": "carolina.vidal@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 5990491,
+    "direccion": "Jean Jaures 335 5° piso  - Abasto",
+    "address": "Jean Jaures al 300, Abasto",
+    "fake_address": "Jean Jaures al 300, Abasto",
+    "ambientes": 2,
+    "superficie_total": 35.13,
+    "precio_usd": 65000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Abasto",
+    "productor": {
+      "nombre": "Patricio Correa",
+      "email": "patricio.correa@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6918584,
+    "direccion": "Crisologo Larralde  2400 ",
+    "address": "Crisologo Larralde  al 2400",
+    "fake_address": "Crisologo Larralde  al 2400",
+    "ambientes": 2,
+    "superficie_total": 32.0,
+    "precio_usd": 67000,
+    "apta_credito": true,
+    "apta_mascotas": false,
+    "barrio": "Saavedra",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 6640924,
+    "direccion": "Reconquista 538 1° 12 Depto",
+    "address": "Reconquista al 500",
+    "fake_address": "Reconquista al 500",
+    "ambientes": 6,
+    "superficie_total": 74.0,
+    "precio_usd": 67000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "San Nicolás",
+    "productor": {
+      "nombre": "Ivanna La Porta",
+      "email": "ivanna.laporta@roilands.com",
+      "telefono": "  5491149384466"
+    }
+  },
+  {
+    "id": 6945030,
+    "direccion": "Av Olivera  630 2",
+    "address": "Av Olivera al 600",
+    "fake_address": "Av Olivera al 600",
+    "ambientes": 3,
+    "superficie_total": 0.0,
+    "precio_usd": 68000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Parque Avellaneda",
+    "productor": {
+      "nombre": "Priscila Di Pietro",
+      "email": "priscila.dipietro@roilands.com",
+      "telefono": "1523609131"
+    }
+  },
+  {
+    "id": 6937906,
+    "direccion": "Independencia 3801 6 D",
+    "address": "Independencia al 3800",
+    "fake_address": "Independencia al 3800",
+    "ambientes": 2,
+    "superficie_total": 39.0,
+    "precio_usd": 68000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Almagro",
+    "productor": {
+      "nombre": "Ivanna La Porta",
+      "email": "ivanna.laporta@roilands.com",
+      "telefono": "  5491149384466"
+    }
+  },
+  {
+    "id": 6908957,
+    "direccion": "Carlos Berg 4563  - Terreno",
+    "address": "Carlos Berg al 4500",
+    "fake_address": "Carlos Berg al 4500",
+    "ambientes": 0,
+    "superficie_total": 258.0,
+    "precio_usd": 70000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Villa Lynch",
+    "productor": {
+      "nombre": "Cecilia Casalanguida",
+      "email": "cecilia.casalanguida@roilands.com",
+      "telefono": " 541130383631"
+    }
+  },
+  {
+    "id": 6609170,
+    "direccion": "Urcelay y Los Tilos 581 1",
+    "address": "Urcelay y Los Tilos al 500",
+    "fake_address": "Urcelay y Los Tilos al 500",
+    "ambientes": 2,
+    "superficie_total": 59.0,
+    "precio_usd": 73000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Los Cardales",
+    "productor": {
+      "nombre": "Antonella Di Iorio",
+      "email": "antonella.diiorio@roilands.com",
+      "telefono": " 54 9 230 4581046"
+    }
+  },
+  {
+    "id": 6443979,
+    "direccion": "4 de Noviembre 5105 -",
+    "address": "4 de Noviembre al 5100",
+    "fake_address": "4 de Noviembre al 5100",
+    "ambientes": 3,
+    "superficie_total": 65.0,
+    "precio_usd": 75000,
+    "apta_credito": true,
+    "apta_mascotas": false,
+    "barrio": "Villa Bosch",
+    "productor": {
+      "nombre": "Juan Sebastian Di Siervi",
+      "email": "sebastian.disiervi@roilands.com",
+      "telefono": "1169176487"
+    }
+  },
+  {
+    "id": 6929185,
+    "direccion": "Camacuá 600",
+    "address": "Camacuá al 600",
+    "fake_address": "Camacuá al 600",
+    "ambientes": 2,
+    "superficie_total": 42.0,
+    "precio_usd": 75000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Flores",
+    "productor": {
+      "nombre": "Carolina Vidal",
+      "email": "carolina.vidal@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 2659148,
+    "direccion": "Arenales 1200 1A",
+    "address": "Arenales al 1200",
+    "fake_address": "Arenales al 1200",
+    "ambientes": 1,
+    "superficie_total": 24.0,
+    "precio_usd": 78000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Recoleta",
+    "productor": {
+      "nombre": "Germán Riva",
+      "email": "german.riva@roilands.com",
+      "telefono": "5491149357447"
+    }
+  },
+  {
+    "id": 6054685,
+    "direccion": "Calle 77 al 500 ",
+    "address": "77 al 500",
+    "fake_address": "77 al 500",
+    "ambientes": 4,
+    "superficie_total": 0.0,
+    "precio_usd": 79500,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Mar Del Tuyu",
+    "productor": {
+      "nombre": "Hugo Lima Maldonado",
+      "email": "hugo.lima@roilands.com",
+      "telefono": "5491162753010"
+    }
+  },
+  {
+    "id": 4636652,
+    "direccion": "Rawson 171. 4 D",
+    "address": "Rawson al 100",
+    "fake_address": "Rawson al 100",
+    "ambientes": 1,
+    "superficie_total": 37.0,
+    "precio_usd": 82500,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Almagro",
+    "productor": {
+      "nombre": "Nicolas Lettieri",
+      "email": "nicolas.lettieri@roilands.com",
+      "telefono": "2664561845"
+    }
+  },
+  {
+    "id": 5690456,
+    "direccion": "Rawson 171. 3 B",
+    "address": "Rawson al 100",
+    "fake_address": "Rawson al 100",
+    "ambientes": 1,
+    "superficie_total": 37.0,
+    "precio_usd": 83000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Almagro",
+    "productor": {
+      "nombre": "Nicolas Lettieri",
+      "email": "nicolas.lettieri@roilands.com",
+      "telefono": "2664561845"
+    }
+  },
+  {
+    "id": 6917622,
+    "direccion": "Mario Bravo 304 6",
+    "address": "Mario Bravo al 300",
+    "fake_address": "Mario Bravo al 300",
+    "ambientes": 2,
+    "superficie_total": 38.0,
+    "precio_usd": 83000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Almagro",
+    "productor": {
+      "nombre": "Monserrat Arostegui",
+      "email": "monserrat.arostegui@roilands.com",
+      "telefono": "1162562121"
+    }
+  },
+  {
+    "id": 6545772,
+    "direccion": "Sargento Cabral y Corrientes 711 ",
+    "address": "Sargento Cabral y Corrientes al 700",
+    "fake_address": "Sargento Cabral y Corrientes al 700",
+    "ambientes": 2,
+    "superficie_total": 74.0,
+    "precio_usd": 85000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Los Cardales",
+    "productor": {
+      "nombre": "Antonella Di Iorio",
+      "email": "antonella.diiorio@roilands.com",
+      "telefono": " 54 9 230 4581046"
+    }
+  },
+  {
+    "id": 6948091,
+    "direccion": "Bufano 1035 -1 C",
+    "address": "Bufano al 1000",
+    "fake_address": "Bufano al 1000",
+    "ambientes": 1,
+    "superficie_total": 48.0,
+    "precio_usd": 85000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Flores",
+    "productor": {
+      "nombre": "Julieta Garcia",
+      "email": "julieta.garcia@roilands.com",
+      "telefono": "541140457712"
+    }
+  },
+  {
+    "id": 6853383,
+    "direccion": "Avda Independencia 2179 11 \"A\"",
+    "address": "Avda Independencia al 2100",
+    "fake_address": "Avda Independencia al 2100",
+    "ambientes": 3,
+    "superficie_total": 56.0,
+    "precio_usd": 85000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "San Cristobal",
+    "productor": {
+      "nombre": "Susana Juncal",
+      "email": "susana.juncal@roilands.com",
+      "telefono": "11 5756-1083"
+    }
+  },
+  {
+    "id": 6756422,
+    "direccion": "Rivera 2799 - 1 Amb. Depto C",
+    "address": "Rivera 2799 - RAP6756422",
+    "fake_address": "Rivera 2799 - RAP6756422",
+    "ambientes": 1,
+    "superficie_total": 33.0,
+    "precio_usd": 86000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Belgrano",
+    "productor": {
+      "nombre": "Nicolas Lettieri",
+      "email": "nicolas.lettieri@roilands.com",
+      "telefono": "2664561845"
+    }
+  },
+  {
+    "id": 6889113,
+    "direccion": "Paraguay 3980 2B",
+    "address": "Paraguay al 3900",
+    "fake_address": "Paraguay al 3900",
+    "ambientes": 1,
+    "superficie_total": 33.0,
+    "precio_usd": 89000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Palermo",
+    "productor": {
+      "nombre": "Johanna Uema",
+      "email": "Johanna.uema@roilands.com",
+      "telefono": "1128473113"
+    }
+  },
+  {
+    "id": 6777899,
+    "direccion": "Muñoz  3500",
+    "address": "Muñoz  al 3500",
+    "fake_address": "Muñoz  al 3500",
+    "ambientes": 3,
+    "superficie_total": 186.0,
+    "precio_usd": 90000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Ciudadela",
+    "productor": {
+      "nombre": "Augusto Dadin",
+      "email": "augusto.dadin@roilands.com",
+      "telefono": "+5491159548690"
+    }
+  },
+  {
+    "id": 6741324,
+    "direccion": "Av. Triunvirato 3961 1 F Monoambiente - Villa Urquiza",
+    "address": "Av. Triunvirato al 3900",
+    "fake_address": "Av. Triunvirato al 3900",
+    "ambientes": 1,
+    "superficie_total": 40.0,
+    "precio_usd": 90000,
+    "apta_credito": true,
+    "apta_mascotas": false,
+    "barrio": "Villa Urquiza",
+    "productor": {
+      "nombre": "Cecilia Casalanguida",
+      "email": "cecilia.casalanguida@roilands.com",
+      "telefono": " 541130383631"
+    }
+  },
+  {
+    "id": 3618272,
+    "direccion": "San Luis 3251",
+    "address": "San Luis al 3200",
+    "fake_address": "San Luis al 3200",
+    "ambientes": 1,
+    "superficie_total": 41.0,
+    "precio_usd": 93000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Balvanera",
+    "productor": {
+      "nombre": "Ruth Denicolai",
+      "email": "ruth.denicolai@roilands.com",
+      "telefono": "5491164759828"
+    }
+  },
+  {
+    "id": 6730956,
+    "direccion": "11 de septiembre de 1888 2854 4 E",
+    "address": "11 de septiembre de 1888 al 2800",
+    "fake_address": "11 de septiembre de 1888 al 2800",
+    "ambientes": 1,
+    "superficie_total": 37.0,
+    "precio_usd": 94000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Nuñez",
+    "productor": {
+      "nombre": "Ivanna La Porta",
+      "email": "ivanna.laporta@roilands.com",
+      "telefono": "  5491149384466"
+    }
+  },
+  {
+    "id": 6922899,
+    "direccion": "Chacabuco  72 1 B",
+    "address": "Chacabuco  72",
+    "fake_address": "Chacabuco  72",
+    "ambientes": 2,
+    "superficie_total": 43.0,
+    "precio_usd": 94000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Haedo Sur",
+    "productor": {
+      "nombre": "Soledad Bressan",
+      "email": "soledad.bressan@roilands.com",
+      "telefono": "+5491151332246"
+    }
+  },
+  {
+    "id": 5069125,
+    "direccion": "Crisologo Larralde  2784 1 Amb B",
+    "address": "Crisologo Larralde  al 2700",
+    "fake_address": "Crisologo Larralde  al 2700",
+    "ambientes": 1,
+    "superficie_total": 41.5,
+    "precio_usd": 99000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Nuñez",
+    "productor": {
+      "nombre": "Analia Nuñez",
+      "email": "analia.nunez@roilands.com",
+      "telefono": "5491166150289"
+    }
+  },
+  {
+    "id": 5069141,
+    "direccion": "Crisologo Larralde  2784 1 Amb C",
+    "address": "Crisologo Larralde  al 2700",
+    "fake_address": "Crisologo Larralde  al 2700",
+    "ambientes": 1,
+    "superficie_total": 38.23,
+    "precio_usd": 99000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Nuñez",
+    "productor": {
+      "nombre": "Analia Nuñez",
+      "email": "analia.nunez@roilands.com",
+      "telefono": "5491166150289"
+    }
+  },
+  {
+    "id": 6670826,
+    "direccion": "Laprida 1500 Vicente López ",
+    "address": "Laprida al 1500 Vicente López",
+    "fake_address": "Laprida al 1500 Vicente López",
+    "ambientes": 3,
+    "superficie_total": 59.0,
+    "precio_usd": 100000,
+    "apta_credito": true,
+    "apta_mascotas": false,
+    "barrio": "Barrio Vicente López",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 6903057,
+    "direccion": "Chacabuco 72  ",
+    "address": "Chacabuco 72",
+    "fake_address": "Chacabuco 72",
+    "ambientes": 2,
+    "superficie_total": 49.0,
+    "precio_usd": 100000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Haedo Sur",
+    "productor": {
+      "nombre": "Soledad Bressan",
+      "email": "soledad.bressan@roilands.com",
+      "telefono": "+5491151332246"
+    }
+  },
+  {
+    "id": 6715382,
+    "direccion": "Burela 3244 4 C",
+    "address": "Burela al 3200",
+    "fake_address": "Burela al 3200",
+    "ambientes": 1,
+    "superficie_total": 45.0,
+    "precio_usd": 105000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Villa Urquiza",
+    "productor": {
+      "nombre": "Ivanna La Porta",
+      "email": "ivanna.laporta@roilands.com",
+      "telefono": "  5491149384466"
+    }
+  },
+  {
+    "id": 6659375,
+    "direccion": "Av. Córdoba  1300",
+    "address": "Av. Córdoba  al 1300",
+    "fake_address": "Av. Córdoba  al 1300",
+    "ambientes": 1,
+    "superficie_total": 78.0,
+    "precio_usd": 108000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Tribunales",
+    "productor": {
+      "nombre": "Carolina Vidal",
+      "email": "carolina.vidal@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6937706,
+    "direccion": "Mendoza  5010 11C",
+    "address": "Mendoza  al 5000",
+    "fake_address": "Mendoza  al 5000",
+    "ambientes": 1,
+    "superficie_total": 42.0,
+    "precio_usd": 108000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Villa Urquiza",
+    "productor": {
+      "nombre": "Ines Lazarte",
+      "email": "ines.lazarte@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6671343,
+    "direccion": "Ponce  2000 DEL VISO. PILAR",
+    "address": "Ponce  al 2000 Del Viso Pilar",
+    "fake_address": "Ponce  al 2000 Del Viso Pilar",
+    "ambientes": 0,
+    "superficie_total": 2000.0,
+    "precio_usd": 109000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Del Viso",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 6606742,
+    "direccion": "Ponce  2000 DEL VISO. PILAR",
+    "address": "Ponce  al 2000 Del Viso",
+    "fake_address": "Ponce  al 2000 Del Viso",
+    "ambientes": 4,
+    "superficie_total": 2000.0,
+    "precio_usd": 109000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Del Viso",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 6763430,
+    "direccion": "Juan B Justo  1000 Matheu  Escobar",
+    "address": "Juan B Justo 1000  Matheu Escobar",
+    "fake_address": "Juan B Justo 1000  Matheu Escobar",
+    "ambientes": 3,
+    "superficie_total": 100.0,
+    "precio_usd": 110000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Matheu",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 6850110,
+    "direccion": "Artigas 3045 7 C",
+    "address": "Artigas al 3000",
+    "fake_address": "Artigas al 3000",
+    "ambientes": 2,
+    "superficie_total": 50.0,
+    "precio_usd": 117500,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Villa del Parque",
+    "productor": {
+      "nombre": "Monserrat Arostegui",
+      "email": "monserrat.arostegui@roilands.com",
+      "telefono": "1162562121"
+    }
+  },
+  {
+    "id": 3521277,
+    "direccion": "Alvarez Thomas 3600 8",
+    "address": "Alvarez Thomas 3600",
+    "fake_address": "Alvarez Thomas 3600",
+    "ambientes": 1,
+    "superficie_total": 68.0,
+    "precio_usd": 117500,
+    "apta_credito": true,
+    "apta_mascotas": false,
+    "barrio": "Villa Urquiza",
+    "productor": {
+      "nombre": "Hugo Lima Maldonado",
+      "email": "hugo.lima@roilands.com",
+      "telefono": "5491162753010"
+    }
+  },
+  {
+    "id": 6667793,
+    "direccion": "LUIS MARIA CAMPOS 134 7",
+    "address": "LUIS MARIA CAMPOS al 100",
+    "fake_address": "LUIS MARIA CAMPOS al 100",
+    "ambientes": 1,
+    "superficie_total": 48.0,
+    "precio_usd": 118000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Las Cañitas",
+    "productor": {
+      "nombre": "Ruth Denicolai",
+      "email": "ruth.denicolai@roilands.com",
+      "telefono": "5491164759828"
+    }
+  },
+  {
+    "id": 6794337,
+    "direccion": "Avellaneda  1533 6 D",
+    "address": "Avellaneda  al 1500",
+    "fake_address": "Avellaneda  al 1500",
+    "ambientes": 2,
+    "superficie_total": 52.0,
+    "precio_usd": 118500,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Caballito",
+    "productor": {
+      "nombre": "Florencia Puricelli",
+      "email": "florencia.puricelli@roilands.com",
+      "telefono": "9 11 6903-7785"
+    }
+  },
+  {
+    "id": 6522995,
+    "direccion": "Rivadavia 5920 1 D",
+    "address": "Rivadavia 5900",
+    "fake_address": "Rivadavia 5900",
+    "ambientes": 3,
+    "superficie_total": 80.0,
+    "precio_usd": 119000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Caballito Sur",
+    "productor": {
+      "nombre": "Moira Moretti Hafford",
+      "email": "moira.mhafford@roilands.com",
+      "telefono": "5491138205165"
+    }
+  },
+  {
+    "id": 6682543,
+    "direccion": "Av. Triunvirato 3961 7mo A",
+    "address": "Av. Triunvirato al 3900",
+    "fake_address": "Av. Triunvirato al 3900",
+    "ambientes": 2,
+    "superficie_total": 57.0,
+    "precio_usd": 120000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Villa Urquiza",
+    "productor": {
+      "nombre": "Cecilia Casalanguida",
+      "email": "cecilia.casalanguida@roilands.com",
+      "telefono": " 541130383631"
+    }
+  },
+  {
+    "id": 6737487,
+    "direccion": "Av. Luis Maria Campos 371 5 C",
+    "address": "Av. Luis Maria Campos 300",
+    "fake_address": "Av. Luis Maria Campos 300",
+    "ambientes": 1,
+    "superficie_total": 40.0,
+    "precio_usd": 120000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Las Cañitas",
+    "productor": {
+      "nombre": "Ines Lazarte",
+      "email": "ines.lazarte@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6680780,
+    "direccion": "Av. Márquez  2521 ",
+    "address": "Barrio Altos de Podestá",
+    "fake_address": "Barrio Altos de Podestá",
+    "ambientes": 5,
+    "superficie_total": 141.0,
+    "precio_usd": 122000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Pablo Podesta",
+    "productor": {
+      "nombre": "Adrian Gotusso",
+      "email": "adrian.gotusso@roilands.com",
+      "telefono": "5491154615842"
+    }
+  },
+  {
+    "id": 6648480,
+    "direccion": "Donado 2021 2",
+    "address": "Donado al 2000",
+    "fake_address": "Donado al 2000",
+    "ambientes": 2,
+    "superficie_total": 47.0,
+    "precio_usd": 124000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Villa Urquiza",
+    "productor": {
+      "nombre": "Moira Moretti Hafford",
+      "email": "moira.mhafford@roilands.com",
+      "telefono": "5491138205165"
+    }
+  },
+  {
+    "id": 6695973,
+    "direccion": "Ayacucho  1500",
+    "address": "Ayacucho  al 1500",
+    "fake_address": "Ayacucho  al 1500",
+    "ambientes": 1,
+    "superficie_total": 38.0,
+    "precio_usd": 125000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Recoleta",
+    "productor": {
+      "nombre": "Carolina Vidal",
+      "email": "carolina.vidal@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6716249,
+    "direccion": "Av Cordoba  6057 6 B",
+    "address": "Av Cordoba  al 6000",
+    "fake_address": "Av Cordoba  al 6000",
+    "ambientes": 3,
+    "superficie_total": 49.0,
+    "precio_usd": 127600,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Palermo",
+    "productor": {
+      "nombre": "Florencia Puricelli",
+      "email": "florencia.puricelli@roilands.com",
+      "telefono": "9 11 6903-7785"
+    }
+  },
+  {
+    "id": 6856685,
+    "direccion": "Montevideo  1398 Piso 11 D, 2 ambientes - Tigre!",
+    "address": "Montevideo  al 1300 ",
+    "fake_address": "Montevideo  al 1300 ",
+    "ambientes": 2,
+    "superficie_total": 45.0,
+    "precio_usd": 130000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Tigre",
+    "productor": {
+      "nombre": "Cecilia Casalanguida",
+      "email": "cecilia.casalanguida@roilands.com",
+      "telefono": " 541130383631"
+    }
+  },
+  {
+    "id": 3915161,
+    "direccion": "Los Pinos 600",
+    "address": "Los Pinos al 600",
+    "fake_address": "Los Pinos al 600",
+    "ambientes": 7,
+    "superficie_total": 180.0,
+    "precio_usd": 132000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Mar De Las Pampas",
+    "productor": {
+      "nombre": "Marco Durat",
+      "email": "marco.durat@roilands.com",
+      "telefono": "5491165125341"
+    }
+  },
+  {
+    "id": 6756270,
+    "direccion": "Rivera 2799 - 2 Amb. Depto A",
+    "address": "Rivera 2799",
+    "fake_address": "Rivera 2799",
+    "ambientes": 2,
+    "superficie_total": 46.0,
+    "precio_usd": 132500,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Belgrano",
+    "productor": {
+      "nombre": "Nicolas Lettieri",
+      "email": "nicolas.lettieri@roilands.com",
+      "telefono": "2664561845"
+    }
+  },
+  {
+    "id": 6946198,
+    "direccion": "Federico Lacroze 1900 13",
+    "address": "Federico Lacroze al 1900",
+    "fake_address": "Federico Lacroze al 1900",
+    "ambientes": 3,
+    "superficie_total": 68.0,
+    "precio_usd": 135000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Belgrano Barrancas",
+    "productor": {
+      "nombre": "Analia Nuñez",
+      "email": "analia.nunez@roilands.com",
+      "telefono": "5491166150289"
+    }
+  },
+  {
+    "id": 6938687,
+    "direccion": "HUMBERTO 1°  959 4",
+    "address": "HUMBERTO 1°  al 900",
+    "fake_address": "HUMBERTO 1°  al 900",
+    "ambientes": 2,
+    "superficie_total": 49.8,
+    "precio_usd": 135000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "San Telmo",
+    "productor": {
+      "nombre": "Adrian Gotusso",
+      "email": "adrian.gotusso@roilands.com",
+      "telefono": "5491154615842"
+    }
+  },
+  {
+    "id": 5068727,
+    "direccion": "Crisologo Larralde  2784 2 Amb Tipo",
+    "address": "Crisologo Larralde  al 2700",
+    "fake_address": "Crisologo Larralde  al 2700",
+    "ambientes": 2,
+    "superficie_total": 66.0,
+    "precio_usd": 140000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Nuñez",
+    "productor": {
+      "nombre": "Analia Nuñez",
+      "email": "analia.nunez@roilands.com",
+      "telefono": "5491166150289"
+    }
+  },
+  {
+    "id": 6282874,
+    "direccion": "POTOSI 85 ",
+    "address": "POTOSI 85",
+    "fake_address": "POTOSI 85",
+    "ambientes": 5,
+    "superficie_total": 375.0,
+    "precio_usd": 140000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Lomas De Zamora",
+    "productor": {
+      "nombre": "Adrian Gotusso",
+      "email": "adrian.gotusso@roilands.com",
+      "telefono": "5491154615842"
+    }
+  },
+  {
+    "id": 6939300,
+    "direccion": "Miñones 2099 3ºD",
+    "address": "Miñones al 2000",
+    "fake_address": "Miñones al 2000",
+    "ambientes": 2,
+    "superficie_total": 40.0,
+    "precio_usd": 140000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Belgrano Barrancas",
+    "productor": {
+      "nombre": "Germán Riva",
+      "email": "german.riva@roilands.com",
+      "telefono": "5491149357447"
+    }
+  },
+  {
+    "id": 6954197,
+    "direccion": "Cerrito  2142 2",
+    "address": "Cerrito  al 2100",
+    "fake_address": "Cerrito  al 2100",
+    "ambientes": 3,
+    "superficie_total": 68.0,
+    "precio_usd": 140000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "General San Martin",
+    "productor": {
+      "nombre": "Cecilia Casalanguida",
+      "email": "cecilia.casalanguida@roilands.com",
+      "telefono": " 541130383631"
+    }
+  },
+  {
+    "id": 6702933,
+    "direccion": "Pacheco 1918 1A",
+    "address": "Pacheco al 1900 1 A",
+    "fake_address": "Pacheco al 1900 1 A",
+    "ambientes": 3,
+    "superficie_total": 70.8,
+    "precio_usd": 145000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Villa Urquiza",
+    "productor": {
+      "nombre": "Eugenia Basiluk",
+      "email": "eugenia.basiluk@roilands.com",
+      "telefono": "5491155966871"
+    }
+  },
+  {
+    "id": 6911921,
+    "direccion": "Av. triunvirato 3961 9 B   -  Frente",
+    "address": "Av. triunvirato al 3900",
+    "fake_address": "Av. triunvirato al 3900",
+    "ambientes": 2,
+    "superficie_total": 61.0,
+    "precio_usd": 148000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Villa Urquiza",
+    "productor": {
+      "nombre": "Cecilia Casalanguida",
+      "email": "cecilia.casalanguida@roilands.com",
+      "telefono": " 541130383631"
+    }
+  },
+  {
+    "id": 6296495,
+    "direccion": "Pacheco 1918 5A",
+    "address": "Pacheco al 1900",
+    "fake_address": "Pacheco al 1900",
+    "ambientes": 2,
+    "superficie_total": 59.2,
+    "precio_usd": 150000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Villa Urquiza",
+    "productor": {
+      "nombre": "Eugenia Basiluk",
+      "email": "eugenia.basiluk@roilands.com",
+      "telefono": "5491155966871"
+    }
+  },
+  {
+    "id": 6742538,
+    "direccion": "Av. Triunvirato 3961 9 D - Contrafrente",
+    "address": "Av. Triunvirato al 3900 Villa Urquiza",
+    "fake_address": "Av. Triunvirato al 3900 Villa Urquiza",
+    "ambientes": 2,
+    "superficie_total": 68.0,
+    "precio_usd": 150000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Villa Urquiza",
+    "productor": {
+      "nombre": "Cecilia Casalanguida",
+      "email": "cecilia.casalanguida@roilands.com",
+      "telefono": " 541130383631"
+    }
+  },
+  {
+    "id": 6911044,
+    "direccion": "Epecuén 609 ",
+    "address": "Epecuén al 600",
+    "fake_address": "Epecuén al 600",
+    "ambientes": 5,
+    "superficie_total": 245.0,
+    "precio_usd": 150000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Hurlingham",
+    "productor": {
+      "nombre": "Roberto Sosa",
+      "email": "roberto.sosa@roilands.com",
+      "telefono": "1133951119"
+    }
+  },
+  {
+    "id": 6786273,
+    "direccion": "Plaza  1416 4to Fte.",
+    "address": "Plaza  al 1400",
+    "fake_address": "Plaza  al 1400",
+    "ambientes": 3,
+    "superficie_total": 76.85,
+    "precio_usd": 150000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Villa Ortuzar",
+    "productor": {
+      "nombre": "Hugo Lima Maldonado",
+      "email": "hugo.lima@roilands.com",
+      "telefono": "5491162753010"
+    }
+  },
+  {
+    "id": 6678286,
+    "direccion": "Zapiola  1040 1 A ",
+    "address": "Zapiola  al 1000",
+    "fake_address": "Zapiola  al 1000",
+    "ambientes": 2,
+    "superficie_total": 51.4,
+    "precio_usd": 150900,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Colegiales",
+    "productor": {
+      "nombre": "Jorgelina Sanchez",
+      "email": "jorgelina.sanchez@roilands.com",
+      "telefono": "5491154638696"
+    }
+  },
+  {
+    "id": 6904686,
+    "direccion": "Pacheco 1918 6A",
+    "address": "Pacheco al 1900",
+    "fake_address": "Pacheco al 1900",
+    "ambientes": 2,
+    "superficie_total": 58.9,
+    "precio_usd": 155000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Villa Urquiza",
+    "productor": {
+      "nombre": "Eugenia Basiluk",
+      "email": "eugenia.basiluk@roilands.com",
+      "telefono": "5491155966871"
+    }
+  },
+  {
+    "id": 6909660,
+    "direccion": "Teodoro Garcia 2370 4B",
+    "address": "Teodoro Garcia al 2300",
+    "fake_address": "Teodoro Garcia al 2300",
+    "ambientes": 4,
+    "superficie_total": 70.77,
+    "precio_usd": 164000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Belgrano",
+    "productor": {
+      "nombre": "Ines Lazarte",
+      "email": "ines.lazarte@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6784720,
+    "direccion": "Av. Márquez 2521 ",
+    "address": "Av. Márquez al 2500",
+    "fake_address": "Av. Márquez al 2500",
+    "ambientes": 4,
+    "superficie_total": 208.0,
+    "precio_usd": 165000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Pablo Podesta",
+    "productor": {
+      "nombre": "Roberto Sosa",
+      "email": "roberto.sosa@roilands.com",
+      "telefono": "1133951119"
+    }
+  },
+  {
+    "id": 6929145,
+    "direccion": "Av Del Libertador  8440 p1 depto 11",
+    "address": "Av Del Libertador  al 8400",
+    "fake_address": "Av Del Libertador  al 8400",
+    "ambientes": 3,
+    "superficie_total": 65.0,
+    "precio_usd": 165000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Nuñez",
+    "productor": {
+      "nombre": "Florencia Puricelli",
+      "email": "florencia.puricelli@roilands.com",
+      "telefono": "9 11 6903-7785"
+    }
+  },
+  {
+    "id": 6187883,
+    "direccion": "Av Cabildo 4667  5 B",
+    "address": "Av Cabildo al 4600",
+    "fake_address": "Av Cabildo al 4600",
+    "ambientes": 2,
+    "superficie_total": 48.0,
+    "precio_usd": 166000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "L.De Nuñez",
+    "productor": {
+      "nombre": "Priscila Di Pietro",
+      "email": "priscila.dipietro@roilands.com",
+      "telefono": "1523609131"
+    }
+  },
+  {
+    "id": 6923364,
+    "direccion": "Lavalle  1139 3",
+    "address": "Lavalle  al 1100",
+    "fake_address": "Lavalle  al 1100",
+    "ambientes": 5,
+    "superficie_total": 236.0,
+    "precio_usd": 169000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "San Nicolás",
+    "productor": {
+      "nombre": "Moira Moretti Hafford",
+      "email": "moira.mhafford@roilands.com",
+      "telefono": "5491138205165"
+    }
+  },
+  {
+    "id": 6828770,
+    "direccion": "Calle 72 entre 121 y 122 La Plata   ",
+    "address": "Calle 72 La Plata",
+    "fake_address": "Calle 72 La Plata",
+    "ambientes": 6,
+    "superficie_total": 0.0,
+    "precio_usd": 169500,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Villa Elvira",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 6665726,
+    "direccion": "Av Cabildo 4667 3RO E",
+    "address": "Av Cabildo al 4600",
+    "fake_address": "Av Cabildo al 4600",
+    "ambientes": 2,
+    "superficie_total": 53.0,
+    "precio_usd": 179000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Nuñez",
+    "productor": {
+      "nombre": "Priscila Di Pietro",
+      "email": "priscila.dipietro@roilands.com",
+      "telefono": "1523609131"
+    }
+  },
+  {
+    "id": 6895718,
+    "direccion": "Zabala  2250 7B",
+    "address": "Zabala  al 2200",
+    "fake_address": "Zabala  al 2200",
+    "ambientes": 3,
+    "superficie_total": 67.0,
+    "precio_usd": 189000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Belgrano",
+    "productor": {
+      "nombre": "Moira Moretti Hafford",
+      "email": "moira.mhafford@roilands.com",
+      "telefono": "5491138205165"
+    }
+  },
+  {
+    "id": 6190717,
+    "direccion": "Arenales 3005 / 3009 -   Piso 1ª A ",
+    "address": "Arenales al 3000",
+    "fake_address": "Arenales al 3000",
+    "ambientes": 4,
+    "superficie_total": 90.0,
+    "precio_usd": 190000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Recoleta",
+    "productor": {
+      "nombre": "Marcelo Herbst",
+      "email": "marcelo.herbst@roilands.com",
+      "telefono": "1155054670"
+    }
+  },
+  {
+    "id": 6520880,
+    "direccion": "Julian Alvarez 2465 PBº3",
+    "address": "Julian Alvarez al 2400",
+    "fake_address": "Julian Alvarez al 2400",
+    "ambientes": 3,
+    "superficie_total": 131.0,
+    "precio_usd": 195000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Palermo",
+    "productor": {
+      "nombre": "Mónica Almandoz",
+      "email": "monica.almandoz@roilands.com",
+      "telefono": "5491164142898"
+    }
+  },
+  {
+    "id": 6894955,
+    "direccion": "Lautaro  553 4A",
+    "address": "Lautaro  al 500",
+    "fake_address": "Lautaro  al 500",
+    "ambientes": 4,
+    "superficie_total": 107.0,
+    "precio_usd": 198000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Flores Sur",
+    "productor": {
+      "nombre": "Julieta Garcia",
+      "email": "julieta.garcia@roilands.com",
+      "telefono": "541140457712"
+    }
+  },
+  {
+    "id": 6665546,
+    "direccion": "Av Cabildo  4667 1RO E",
+    "address": "Av Cabildo  al 4600",
+    "fake_address": "Av Cabildo  al 4600",
+    "ambientes": 2,
+    "superficie_total": 94.0,
+    "precio_usd": 198000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Nuñez",
+    "productor": {
+      "nombre": "Priscila Di Pietro",
+      "email": "priscila.dipietro@roilands.com",
+      "telefono": "1523609131"
+    }
+  },
+  {
+    "id": 6695980,
+    "direccion": "Ciudad de La Paz  2742   Piso 2 ",
+    "address": "Ciudad de La Paz  al 2700",
+    "fake_address": "Ciudad de La Paz  al 2700",
+    "ambientes": 3,
+    "superficie_total": 82.0,
+    "precio_usd": 198000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Belgrano",
+    "productor": {
+      "nombre": "Marcelo Herbst",
+      "email": "marcelo.herbst@roilands.com",
+      "telefono": "1155054670"
+    }
+  },
+  {
+    "id": 3214146,
+    "direccion": "Cabello 3100",
+    "address": "Cabello al 3100",
+    "fake_address": "Cabello al 3100",
+    "ambientes": 4,
+    "superficie_total": 94.0,
+    "precio_usd": 200000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Palermo Chico",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 6864800,
+    "direccion": "Arribeños 2600 Núñez   ",
+    "address": "Arribeños 2600 Núñez ",
+    "fake_address": "Arribeños 2600 Núñez ",
+    "ambientes": 3,
+    "superficie_total": 100.0,
+    "precio_usd": 206000,
+    "apta_credito": true,
+    "apta_mascotas": false,
+    "barrio": "Nuñez",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 4136147,
+    "direccion": "Salcedo 3100",
+    "address": "Salcedo 3100",
+    "fake_address": "Salcedo 3100",
+    "ambientes": 0,
+    "superficie_total": 0.0,
+    "precio_usd": 210000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Parque Patricios",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 6692151,
+    "direccion": "Cabildo  2100  Belgrano",
+    "address": "Cabildo  al 2100",
+    "fake_address": "Cabildo  al 2100",
+    "ambientes": 4,
+    "superficie_total": 99.0,
+    "precio_usd": 210000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Belgrano",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 6936831,
+    "direccion": "Luis María campos  317 4 A",
+    "address": "Luis María campos  al 300",
+    "fake_address": "Luis María campos  al 300",
+    "ambientes": 4,
+    "superficie_total": 86.0,
+    "precio_usd": 220000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Las Cañitas",
+    "productor": {
+      "nombre": "Jorgelina Sanchez",
+      "email": "jorgelina.sanchez@roilands.com",
+      "telefono": "5491154638696"
+    }
+  },
+  {
+    "id": 6891710,
+    "direccion": "Mansilla  3300",
+    "address": "Mansilla  al 3300",
+    "fake_address": "Mansilla  al 3300",
+    "ambientes": 3,
+    "superficie_total": 159.0,
+    "precio_usd": 220000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Recoleta",
+    "productor": {
+      "nombre": "Carolina Vidal",
+      "email": "carolina.vidal@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6954639,
+    "direccion": "JUAN DE GARAY  4040 ",
+    "address": "JUAN DE GARAY  al 4000",
+    "fake_address": "JUAN DE GARAY  al 4000",
+    "ambientes": 5,
+    "superficie_total": 170.0,
+    "precio_usd": 230000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Olivos",
+    "productor": {
+      "nombre": "Dominique Blousson",
+      "email": "dominique.blousson@roilands.com",
+      "telefono": " 5491134360109"
+    }
+  },
+  {
+    "id": 6204945,
+    "direccion": "Av Cabildo  4667 4 C",
+    "address": "Av Cabildo  al 4600",
+    "fake_address": "Av Cabildo  al 4600",
+    "ambientes": 3,
+    "superficie_total": 70.0,
+    "precio_usd": 236000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "L.De Nuñez",
+    "productor": {
+      "nombre": "Priscila Di Pietro",
+      "email": "priscila.dipietro@roilands.com",
+      "telefono": "1523609131"
+    }
+  },
+  {
+    "id": 6870431,
+    "direccion": "Quesada  5271 3 C",
+    "address": "Quesada  al 5200",
+    "fake_address": "Quesada  al 5200",
+    "ambientes": 3,
+    "superficie_total": 85.0,
+    "precio_usd": 249000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Villa Urquiza",
+    "productor": {
+      "nombre": "Jorgelina Sanchez",
+      "email": "jorgelina.sanchez@roilands.com",
+      "telefono": "5491154638696"
+    }
+  },
+  {
+    "id": 5069182,
+    "direccion": "Crisologo Larralde  2784  3 Amb Tipo",
+    "address": "Crisologo Larralde  al 2700",
+    "fake_address": "Crisologo Larralde  al 2700",
+    "ambientes": 3,
+    "superficie_total": 81.5,
+    "precio_usd": 250000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Nuñez",
+    "productor": {
+      "nombre": "Nicolas Mussi",
+      "email": "nicolas.mussi@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6063460,
+    "direccion": "Franklin  1000 ",
+    "address": "Franklin  al 1000",
+    "fake_address": "Franklin  al 1000",
+    "ambientes": 7,
+    "superficie_total": 230.0,
+    "precio_usd": 257000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Caballito Norte",
+    "productor": {
+      "nombre": "Analia Nuñez",
+      "email": "analia.nunez@roilands.com",
+      "telefono": "5491166150289"
+    }
+  },
+  {
+    "id": 6923960,
+    "direccion": "Gallo  1688 2 B",
+    "address": "Gallo  al 1600",
+    "fake_address": "Gallo  al 1600",
+    "ambientes": 3,
+    "superficie_total": 132.0,
+    "precio_usd": 258000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Recoleta",
+    "productor": {
+      "nombre": "Marcela Pandolfi",
+      "email": "marcela.pandolfi@roilands.com",
+      "telefono": " 5491165136118"
+    }
+  },
+  {
+    "id": 6161916,
+    "direccion": "Pacheco 1918 7A",
+    "address": "Pacheco al 1900. 7 A",
+    "fake_address": "Pacheco al 1900. 7 A",
+    "ambientes": 3,
+    "superficie_total": 123.7,
+    "precio_usd": 260000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Villa Urquiza",
+    "productor": {
+      "nombre": "Eugenia Basiluk",
+      "email": "eugenia.basiluk@roilands.com",
+      "telefono": "5491155966871"
+    }
+  },
+  {
+    "id": 4769342,
+    "direccion": "Country Club San Diego Lote 1",
+    "address": "Country Club San Diego",
+    "fake_address": "Country Club San Diego",
+    "ambientes": 0,
+    "superficie_total": 0.0,
+    "precio_usd": 275000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "San Diego",
+    "productor": {
+      "nombre": "Paula Fiedler",
+      "email": "paula.fiedler@roilands.com",
+      "telefono": "1164653221"
+    }
+  },
+  {
+    "id": 6702928,
+    "direccion": "Pacheco 1918 7B",
+    "address": "Pacheco al 1900. 7 B",
+    "fake_address": "Pacheco al 1900. 7 B",
+    "ambientes": 3,
+    "superficie_total": 137.0,
+    "precio_usd": 275000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Villa Urquiza",
+    "productor": {
+      "nombre": "Eugenia Basiluk",
+      "email": "eugenia.basiluk@roilands.com",
+      "telefono": "5491155966871"
+    }
+  },
+  {
+    "id": 6676650,
+    "direccion": "Zapiola  1040 1 C",
+    "address": "Zapiola  al 1000",
+    "fake_address": "Zapiola  al 1000",
+    "ambientes": 3,
+    "superficie_total": 101.45,
+    "precio_usd": 278850,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Colegiales",
+    "productor": {
+      "nombre": "Jorgelina Sanchez",
+      "email": "jorgelina.sanchez@roilands.com",
+      "telefono": "5491154638696"
+    }
+  },
+  {
+    "id": 6914450,
+    "direccion": "Esmeralda  860 3 F",
+    "address": "Esmeralda  al 800",
+    "fake_address": "Esmeralda  al 800",
+    "ambientes": 6,
+    "superficie_total": 169.0,
+    "precio_usd": 279000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Microcentro",
+    "productor": {
+      "nombre": "Paula Fiedler",
+      "email": "paula.fiedler@roilands.com",
+      "telefono": "1164653221"
+    }
+  },
+  {
+    "id": 6874604,
+    "direccion": "Alberdi 2560 1A",
+    "address": "Alberdi al 2500",
+    "fake_address": "Alberdi al 2500",
+    "ambientes": 4,
+    "superficie_total": 184.14,
+    "precio_usd": 280000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Flores",
+    "productor": {
+      "nombre": "Ines Lazarte",
+      "email": "ines.lazarte@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6891910,
+    "direccion": "Castro Barros 2244 ",
+    "address": "Castro Barros al 2200, Martinez",
+    "fake_address": "Castro Barros al 2200, Martinez",
+    "ambientes": 5,
+    "superficie_total": 167.0,
+    "precio_usd": 284000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Martinez",
+    "productor": {
+      "nombre": "Patricio Correa",
+      "email": "patricio.correa@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6188894,
+    "direccion": "Güemes 3257 9",
+    "address": "Guemes al 3200",
+    "fake_address": "Guemes al 3200",
+    "ambientes": 3,
+    "superficie_total": 138.0,
+    "precio_usd": 285000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Recoleta",
+    "productor": {
+      "nombre": "Germán Riva",
+      "email": "german.riva@roilands.com",
+      "telefono": "5491149357447"
+    }
+  },
+  {
+    "id": 6712717,
+    "direccion": "Teodoro Garcia 3525 1 \"C\"",
+    "address": "Teodoro Garcia al 3500",
+    "fake_address": "Teodoro Garcia al 3500",
+    "ambientes": 3,
+    "superficie_total": 146.0,
+    "precio_usd": 285000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Colegiales",
+    "productor": {
+      "nombre": "Eugenia Basiluk",
+      "email": "eugenia.basiluk@roilands.com",
+      "telefono": "5491155966871"
+    }
+  },
+  {
+    "id": 5865968,
+    "direccion": "Gorostiaga 2355 ",
+    "address": "Gorostiaga al 2400",
+    "fake_address": "Gorostiaga al 2400",
+    "ambientes": 0,
+    "superficie_total": 91.0,
+    "precio_usd": 295000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Palermo",
+    "productor": {
+      "nombre": "Fabian Bini",
+      "email": "fabian.bini@roilands.com",
+      "telefono": "11 3639-2025"
+    }
+  },
+  {
+    "id": 6793993,
+    "direccion": "Talcahuano 958 18ºE",
+    "address": "Talcahuano al 900",
+    "fake_address": "Talcahuano al 900",
+    "ambientes": 4,
+    "superficie_total": 178.0,
+    "precio_usd": 310000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Recoleta",
+    "productor": {
+      "nombre": "Germán Riva",
+      "email": "german.riva@roilands.com",
+      "telefono": "5491149357447"
+    }
+  },
+  {
+    "id": 6677245,
+    "direccion": "Zapiola  1040 4 C",
+    "address": "Zapiola  al 1000",
+    "fake_address": "Zapiola  al 1000",
+    "ambientes": 3,
+    "superficie_total": 131.2,
+    "precio_usd": 320475,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Colegiales",
+    "productor": {
+      "nombre": "Jorgelina Sanchez",
+      "email": "jorgelina.sanchez@roilands.com",
+      "telefono": "5491154638696"
+    }
+  },
+  {
+    "id": 5064972,
+    "direccion": "Crisologo Larralde  2784 PB 3 Amb",
+    "address": "Crisologo Larralde  al 2700",
+    "fake_address": "Crisologo Larralde  al 2700",
+    "ambientes": 3,
+    "superficie_total": 119.0,
+    "precio_usd": 334000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Nuñez",
+    "productor": {
+      "nombre": "Nicolas Mussi",
+      "email": "nicolas.mussi@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6848715,
+    "direccion": "Av del Puerto 530 5",
+    "address": "Nordelta Marinas del Canal - Av del Puerto al 500 -",
+    "fake_address": "Nordelta Marinas del Canal - Av del Puerto al 500 -",
+    "ambientes": 3,
+    "superficie_total": 224.6,
+    "precio_usd": 337000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Marinas del Canal",
+    "productor": {
+      "nombre": "Paula Fiedler",
+      "email": "paula.fiedler@roilands.com",
+      "telefono": "1164653221"
+    }
+  },
+  {
+    "id": 6677535,
+    "direccion": "Zapiola  1040 4 B",
+    "address": "Zapiola  al 1000",
+    "fake_address": "Zapiola  al 1000",
+    "ambientes": 4,
+    "superficie_total": 133.25,
+    "precio_usd": 340125,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Colegiales",
+    "productor": {
+      "nombre": "Jorgelina Sanchez",
+      "email": "jorgelina.sanchez@roilands.com",
+      "telefono": "5491154638696"
+    }
+  },
+  {
+    "id": 6744486,
+    "direccion": "Fincas de San Vicente Golf Club - Lote 261  ",
+    "address": "Fincas de San Vicente Golf Club - Lote 261",
+    "fake_address": "Fincas de San Vicente Golf Club - Lote 261",
+    "ambientes": 5,
+    "superficie_total": 564.53,
+    "precio_usd": 345000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Fincas de San Vicente",
+    "productor": {
+      "nombre": "Adrian Gotusso",
+      "email": "adrian.gotusso@roilands.com",
+      "telefono": "5491154615842"
+    }
+  },
+  {
+    "id": 2207678,
+    "direccion": "Uruguay 1000",
+    "address": "Uruguay al 1000",
+    "fake_address": "Uruguay al 1000",
+    "ambientes": 5,
+    "superficie_total": 145.0,
+    "precio_usd": 350000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Recoleta",
+    "productor": {
+      "nombre": "Germán Riva",
+      "email": "german.riva@roilands.com",
+      "telefono": "5491149357447"
+    }
+  },
+  {
+    "id": 6398992,
+    "direccion": "Predio de 10 Ha en calle Víctor Maro, Maschwitz, Escobar  ",
+    "address": "Predio en calle Víctor Maro, Maschwitz, Escobar",
+    "fake_address": "Predio en calle Víctor Maro, Maschwitz, Escobar",
+    "ambientes": 0,
+    "superficie_total": 0.0,
+    "precio_usd": 350000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Ingeniero Maschwitz",
+    "productor": {
+      "nombre": "Patricio Correa",
+      "email": "patricio.correa@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6797813,
+    "direccion": "Beauchef 912 9",
+    "address": "Beauchef al 900",
+    "fake_address": "Beauchef al 900",
+    "ambientes": 4,
+    "superficie_total": 128.46,
+    "precio_usd": 355000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Caballito",
+    "productor": {
+      "nombre": "Ines Lazarte",
+      "email": "ines.lazarte@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6715559,
+    "direccion": "Av Diaz Velez  4537 8a",
+    "address": "Av Diaz Velez  al 4500",
+    "fake_address": "Av Diaz Velez  al 4500",
+    "ambientes": 7,
+    "superficie_total": 256.0,
+    "precio_usd": 380000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Caballito",
+    "productor": {
+      "nombre": "Julieta Garcia",
+      "email": "julieta.garcia@roilands.com",
+      "telefono": "541140457712"
+    }
+  },
+  {
+    "id": 1099465,
+    "direccion": "Mar de las Pampas    ",
+    "address": "        Martín Alzaga Mar de las Pampas    ",
+    "fake_address": "        Martín Alzaga Mar de las Pampas    ",
+    "ambientes": 7,
+    "superficie_total": 340.0,
+    "precio_usd": 380000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Mar De Las Pampas",
+    "productor": {
+      "nombre": "Marco Durat",
+      "email": "marco.durat@roilands.com",
+      "telefono": "5491165125341"
+    }
+  },
+  {
+    "id": 6857569,
+    "direccion": "Marcelo T.de Alvear 1200 Recoleta Capital Federal ",
+    "address": "Marcelo T. de Alvear 1200 Recoleta ",
+    "fake_address": "Marcelo T. de Alvear 1200 Recoleta ",
+    "ambientes": 5,
+    "superficie_total": 187.0,
+    "precio_usd": 399000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Recoleta",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 6854854,
+    "direccion": "Avellaneda  2637 2",
+    "address": "Avellaneda  al 2600",
+    "fake_address": "Avellaneda  al 2600",
+    "ambientes": 4,
+    "superficie_total": 218.0,
+    "precio_usd": 480000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Flores Norte",
+    "productor": {
+      "nombre": "Carolina Izon",
+      "email": "carolina.izon@roilands.com",
+      "telefono": "1126883026"
+    }
+  },
+  {
+    "id": 6855098,
+    "direccion": "Desaguadero  2300 ",
+    "address": "Desaguadero  al 2300",
+    "fake_address": "Desaguadero  al 2300",
+    "ambientes": 8,
+    "superficie_total": 472.0,
+    "precio_usd": 485000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Monte Castro",
+    "productor": {
+      "nombre": "Analia Nuñez",
+      "email": "analia.nunez@roilands.com",
+      "telefono": "5491166150289"
+    }
+  },
+  {
+    "id": 6377247,
+    "direccion": "Perú 1100 San Telmo ",
+    "address": "Perú al 1100 San Telmo",
+    "fake_address": "Perú al 1100 San Telmo",
+    "ambientes": 0,
+    "superficie_total": 425.0,
+    "precio_usd": 490000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "San Telmo",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 6771547,
+    "direccion": "Virrey Arredondo  3249 PB 102",
+    "address": "Virrey Arredondo  al 3200",
+    "fake_address": "Virrey Arredondo  al 3200",
+    "ambientes": 3,
+    "superficie_total": 160.0,
+    "precio_usd": 490000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Colegiales",
+    "productor": {
+      "nombre": "Jorgelina Sanchez",
+      "email": "jorgelina.sanchez@roilands.com",
+      "telefono": "5491154638696"
+    }
+  },
+  {
+    "id": 6030574,
+    "direccion": "Chacras de Open Door",
+    "address": "AV.CABRED 1550, OPEN DOOR",
+    "fake_address": "AV.CABRED 1550, OPEN DOOR",
+    "ambientes": 9,
+    "superficie_total": 523.0,
+    "precio_usd": 549000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Chacras Open Door",
+    "productor": {
+      "nombre": "Nicolas Mussi",
+      "email": "nicolas.mussi@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 4769432,
+    "direccion": "Country Club San Diego Lote 2",
+    "address": "Country Club San Diego",
+    "fake_address": "Country Club San Diego",
+    "ambientes": 0,
+    "superficie_total": 0.0,
+    "precio_usd": 550000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "San Diego",
+    "productor": {
+      "nombre": "Paula Fiedler",
+      "email": "paula.fiedler@roilands.com",
+      "telefono": "1164653221"
+    }
+  },
+  {
+    "id": 6920027,
+    "direccion": "PAMPA 667 ",
+    "address": "PAMPA al 600",
+    "fake_address": "PAMPA al 600",
+    "ambientes": 7,
+    "superficie_total": 516.0,
+    "precio_usd": 564900,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "San Isidro",
+    "productor": {
+      "nombre": "Dominique Blousson",
+      "email": "dominique.blousson@roilands.com",
+      "telefono": " 5491134360109"
+    }
+  },
+  {
+    "id": 6789829,
+    "direccion": "Av Cramer 2172 1A",
+    "address": "Av Cramer al 2100",
+    "fake_address": "Av Cramer al 2100",
+    "ambientes": 5,
+    "superficie_total": 317.0,
+    "precio_usd": 594000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Belgrano R",
+    "productor": {
+      "nombre": "Moira Moretti Hafford",
+      "email": "moira.mhafford@roilands.com",
+      "telefono": "5491138205165"
+    }
+  },
+  {
+    "id": 6823535,
+    "direccion": "Av Libertador 5460  Piso 1°",
+    "address": "Av Libertador al 5400",
+    "fake_address": "Av Libertador al 5400",
+    "ambientes": 7,
+    "superficie_total": 0.0,
+    "precio_usd": 595000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Belgrano",
+    "productor": {
+      "nombre": "Marcelo Herbst",
+      "email": "marcelo.herbst@roilands.com",
+      "telefono": "1155054670"
+    }
+  },
+  {
+    "id": 6711516,
+    "direccion": "Perna 3100  Benavidez Tigre ",
+    "address": "Perna 3100 Benavidez Tigre",
+    "fake_address": "Perna 3100 Benavidez Tigre",
+    "ambientes": 5,
+    "superficie_total": 5600.0,
+    "precio_usd": 599900,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Benavidez",
+    "productor": {
+      "nombre": "Soledad Bressan",
+      "email": "soledad.bressan@roilands.com",
+      "telefono": "+5491151332246"
+    }
+  },
+  {
+    "id": 6361358,
+    "direccion": "Perna 3100  Benavidez Tigre ",
+    "address": "Perna 3100 Benavidez Tigre",
+    "fake_address": "Perna 3100 Benavidez Tigre",
+    "ambientes": 5,
+    "superficie_total": 5600.0,
+    "precio_usd": 599900,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Benavidez",
+    "productor": {
+      "nombre": "Soledad Bressan",
+      "email": "soledad.bressan@roilands.com",
+      "telefono": "+5491151332246"
+    }
+  },
+  {
+    "id": 6640222,
+    "direccion": "Mexico  4125 ",
+    "address": "Mexico  al 4100",
+    "fake_address": "Mexico  al 4100",
+    "ambientes": 7,
+    "superficie_total": 457.0,
+    "precio_usd": 640000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Almagro",
+    "productor": {
+      "nombre": "Jorgelina Sanchez",
+      "email": "jorgelina.sanchez@roilands.com",
+      "telefono": "5491154638696"
+    }
+  },
+  {
+    "id": 6408905,
+    "direccion": "Concepcion Arenal 2900 PB",
+    "address": "Concepcion Arenal al 2900",
+    "fake_address": "Concepcion Arenal al 2900",
+    "ambientes": 6,
+    "superficie_total": 280.0,
+    "precio_usd": 650000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Palermo",
+    "productor": {
+      "nombre": "Analia Nuñez",
+      "email": "analia.nunez@roilands.com",
+      "telefono": "5491166150289"
+    }
+  },
+  {
+    "id": 5621944,
+    "direccion": "Loma Merlo, Distrito de Luque  ",
+    "address": "Loma Merlo, Luque, Paraguay",
+    "fake_address": "Loma Merlo, Luque, Paraguay",
+    "ambientes": 0,
+    "superficie_total": 9807.0,
+    "precio_usd": 800000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Loma Merlo",
+    "productor": {
+      "nombre": "Patricio Correa",
+      "email": "patricio.correa@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 6776318,
+    "direccion": "Piedras 1081 ",
+    "address": "Piedras al 1000",
+    "fake_address": "Piedras al 1000",
+    "ambientes": 0,
+    "superficie_total": 0.0,
+    "precio_usd": 880000,
+    "apta_credito": true,
+    "apta_mascotas": false,
+    "barrio": "San Telmo",
+    "productor": {
+      "nombre": "Ines Lazarte",
+      "email": "ines.lazarte@roilands.com",
+      "telefono": ""
+    }
+  },
+  {
+    "id": 5568882,
+    "direccion": "Av. Del Libertador 7400 Piso 30",
+    "address": "Quantum Bellini",
+    "fake_address": "Quantum Bellini",
+    "ambientes": 3,
+    "superficie_total": 136.0,
+    "precio_usd": 950000,
+    "apta_credito": true,
+    "apta_mascotas": true,
+    "barrio": "Nuñez",
+    "productor": {
+      "nombre": "Fabiana Procopio",
+      "email": "fabiana.procopio@roilands.com",
+      "telefono": " 549 11 41486071"
+    }
+  },
+  {
+    "id": 4761250,
+    "direccion": "Country Club San Diego Casa",
+    "address": "Country Club San Diego",
+    "fake_address": "Country Club San Diego",
+    "ambientes": 11,
+    "superficie_total": 905.0,
+    "precio_usd": 1231231,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "San Diego",
+    "productor": {
+      "nombre": "Paula Fiedler",
+      "email": "paula.fiedler@roilands.com",
+      "telefono": "1164653221"
+    }
+  },
+  {
+    "id": 6939825,
+    "direccion": "Barrio La Lomada de Pilar",
+    "address": "La Lomada de Pilar, Pilar",
+    "fake_address": "La Lomada de Pilar, Pilar",
+    "ambientes": 7,
+    "superficie_total": 1119.0,
+    "precio_usd": 1280000,
+    "apta_credito": false,
+    "apta_mascotas": true,
+    "barrio": "Pilar",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  },
+  {
+    "id": 6884816,
+    "direccion": "Arribeños 1697 16",
+    "address": "Arribeños al 1600",
+    "fake_address": "Arribeños al 1600",
+    "ambientes": 7,
+    "superficie_total": 315.0,
+    "precio_usd": 1296000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Belgrano Barrancas",
+    "productor": {
+      "nombre": "Paula Fiedler",
+      "email": "paula.fiedler@roilands.com",
+      "telefono": "1164653221"
+    }
+  },
+  {
+    "id": 6219716,
+    "direccion": "Pueblo Nuevo 244 - 16.000 mts2 - Rocha",
+    "address": "Pueblo Nuevo, Terrenos, Km 244 Ruta 10 Rocha Uruguay",
+    "fake_address": "Pueblo Nuevo, Terrenos, Km 244 Ruta 10 Rocha Uruguay",
+    "ambientes": 0,
+    "superficie_total": 0.0,
+    "precio_usd": 2600000,
+    "apta_credito": false,
+    "apta_mascotas": false,
+    "barrio": "Rocha",
+    "productor": {
+      "nombre": "Sofia Laconich",
+      "email": "sofia.laconich@roilands.com",
+      "telefono": " 5491144290995"
+    }
+  }
+]

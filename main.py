@@ -218,11 +218,11 @@ ultima_actualizacion = None  # Guarda la última fecha en memoria
 def descargar_propiedades():
     global ultima_actualizacion
     try:
-        if ultima_actualizacion == date.today():
-            print("🟡 Ya se descargaron las propiedades hoy. No se vuelve a ejecutar.")
-            return {"mensaje": "⚠️ Las propiedades ya fueron descargadas hoy."}
+        ##if ultima_actualizacion == date.today():
+        ##    print("🟡 Ya se descargaron las propiedades hoy. No se vuelve a ejecutar.")
+        ##    return {"mensaje": "⚠️ Las propiedades ya fueron descargadas hoy."}
 
-        print("🟢 Ejecutando descarga de propiedades desde Tokko...")
+        ##print("🟢 Ejecutando descarga de propiedades desde Tokko...")
 
         
         filtro = {
@@ -252,16 +252,22 @@ def descargar_propiedades():
 
             propiedades.append({
                 "id": p.get("id"),
-                "direccion": p.get("real_address", ""),
-                "address": p.get("address", ""),
-                "fake_address": p.get("fake_address", ""),
+                "tipo_operacion": p.get("operation_type", ""),
+                "direccion 1": p.get("real_address", ""),
+                "direccion 2": p.get("address", ""),
+                "direccion 3": p.get("fake_address", ""),
                 "ambientes": p.get("room_amount"),
+                "dormitorios": p.get("suite_amount"),
+                "expensas": p.get("expenses"),
                 "superficie_total": float(p.get("total_surface", 0)),
-                "precio_usd": next((pr.get("price") for op in p.get("operations", []) for pr in op.get("prices", []) if pr.get("currency") == "USD"), None),
+                "superficie_cubierta": float(p.get("roofed_surface", 0)),
+                "superficie_descubierta": float(p.get("unroofed_surface", 0)),
+                "precio_dolares": next((pr.get("price") for op in p.get("operations", []) for pr in op.get("prices", []) if pr.get("currency") == "USD"), None),
+                "precio_pesos": next((pr.get("price") for op in p.get("operations", []) for pr in op.get("prices", []) if pr.get("currency") == "ARS"), None),
                 "apta_credito": apta_credito,
                 "apta_mascotas": apta_mascotas,
                 "barrio": p.get("location", {}).get("name", ""),
-                "productor": {
+                "Asesor_comercial": {
                     "nombre": p.get("producer", {}).get("name"),
                     "email": p.get("producer", {}).get("email"),
                     "telefono": p.get("producer", {}).get("cellphone")
@@ -271,10 +277,19 @@ def descargar_propiedades():
         with open("propiedades_basicas.json", "w", encoding="utf-8") as f:
             json.dump(propiedades, f, indent=2, ensure_ascii=False)
 
-        ultima_actualizacion = date.today()
+        ##ultima_actualizacion = date.today()
         print(f"✅ Se guardaron {len(propiedades)} propiedades en propiedades_basicas.json")
 
-        return {"mensaje": f"✅ Se guardaron {len(propiedades)} propiedades en propiedades_basicas.json"}
+ ##     return {"mensaje": f"✅ Se guardaron {len(propiedades)} propiedades en propiedades_basicas.json"}
+
+        return {
+            "cantidad": len(propiedades),
+            "propiedades": propiedades
+        }
+
+
+
+
 
     except Exception as e:
         print(f"❌ Error al descargar propiedades: {e}")
