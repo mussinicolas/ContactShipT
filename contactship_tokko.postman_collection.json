@@ -1,0 +1,62 @@
+{
+  "info": {
+    "name": "ContactShip Tokko Integration",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Consultar precio de propiedad",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"telefono\": \"+5491151193232\",\n    \"direccion\": \"Ar\u00e1oz 2150\",\n    \"dato\": \"precio\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:8000/consultar_propiedad",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8000",
+          "path": [
+            "consultar_propiedad"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Consultar cochera (sin repetir direcci\u00f3n)",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"telefono\": \"+5491151193232\",\n    \"dato\": \"cochera\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:8000/consultar_propiedad",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8000",
+          "path": [
+            "consultar_propiedad"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,783 @@
+{
+  "estado": "esperando_eleccion",
+  "propiedades": [
+    {
+      "address": "Rivera 2799 - RAP6756422",
+      "age": 0,
+      "bathroom_amount": 1,
+      "branch": {
+        "address": "Av. Libertador 6810 p.16",
+        "alternative_phone": "26663923",
+        "alternative_phone_area": "11",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "De L a V 9 a 19Hs",
+        "created_date": "2023-07-07T15:05:06",
+        "display_name": "Suc. Financiados",
+        "email": "roilandsi@roilands.com",
+        "geo_lat": "-34.5494856",
+        "geo_long": "-58.4542488",
+        "gm_location_type": "ROOFTOP",
+        "id": 59747,
+        "is_default": false,
+        "logo": "https://static.tokkobroker.com/logos/460/2959334292724063981536339718550467080049434269670860098013983575663663243148.jpg",
+        "name": "Suc. Financiados",
+        "pdf_footer_text": "",
+        "phone": "5217-2265",
+        "phone_area": "",
+        "phone_country_code": "",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "created_at": "2025-02-05T15:15:46",
+      "custom1": "0.00",
+      "custom_tags": [],
+      "deleted_at": "2025-04-29T21:51:16",
+      "depth_measure": "0.00",
+      "description": "\n\nLas medidas son aproximadas y orientativas. Las medidas exactas surgir\u00e1n del t\u00edtulo de propiedad.\nVenta supeditada al cumplimiento por parte del propietario de los requisitos de la Resoluci\u00f3n General 2371 de la AFIP.\n\nPara los casos de alquiler de vivienda en CABA, el monto m\u00e1ximo de comisi\u00f3n que se le puede requerir a los propietarios ser\u00e1 el equivalente al cuatro con quince cent\u00e9simos por ciento (4,15%) del valor total del respectivo contrato. Se encuentra prohibido cobrar a los inquilinos que sean personas f\u00edsicas comisiones inmobiliarias y gastos de gestor\u00eda de informes\n\nEn cumplimiento de las leyes provinciales vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del C\u00f3digo Civil y Comercial de la Naci\u00f3n y Constitucionales, los asesores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediaci\u00f3n y conclusi\u00f3n por parte de los martilleros y corredores colegiados, cuyos datos se exhiben debajo del nombre de la inmobiliaria.\n\n\nROILANDS - Encontr\u00e1  tu Lugar \nCorredor responsable Capital : Mariano Mussi C.U.C.I.C.B.A Nro. 4065\nCorredor responsable Provincia: Nicol\u00e1s Mussi Colegiado S.I. Nro. 6443",
+      "description_only": "",
+      "development": null,
+      "development_excel_extra_data": "[]",
+      "disposition": "Front",
+      "expenses": 41000,
+      "extra_attributes": [
+        {
+          "is_expenditure": false,
+          "is_measure": false,
+          "name": "AI",
+          "value": "Lunes 10-13 / Mi\u00e9rcoles 15-17 / Viernes 9-11, 14-16"
+        }
+      ],
+      "fake_address": "Rivera 2799 - RAP6756422",
+      "files": [],
+      "floors_amount": 1,
+      "footer": "Las medidas son aproximadas y orientativas. Las medidas exactas surgir\u00e1n del t\u00edtulo de propiedad.\nVenta supeditada al cumplimiento por parte del propietario de los requisitos de la Resoluci\u00f3n General 2371 de la AFIP.\n\nPara los casos de alquiler de vivienda en CABA, el monto m\u00e1ximo de comisi\u00f3n que se le puede requerir a los propietarios ser\u00e1 el equivalente al cuatro con quince cent\u00e9simos por ciento (4,15%) del valor total del respectivo contrato. Se encuentra prohibido cobrar a los inquilinos que sean personas f\u00edsicas comisiones inmobiliarias y gastos de gestor\u00eda de informes\n\nEn cumplimiento de las leyes provinciales vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del C\u00f3digo Civil y Comercial de la Naci\u00f3n y Constitucionales, los asesores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediaci\u00f3n y conclusi\u00f3n por parte de los martilleros y corredores colegiados, cuyos datos se exhiben debajo del nombre de la inmobiliaria.\n\n\nROILANDS - Encontr\u00e1  tu Lugar \nCorredor responsable Capital : Mariano Mussi C.U.C.I.C.B.A Nro. 4065\nCorredor responsable Provincia: Nicol\u00e1s Mussi Colegiado S.I. Nro. 6443",
+      "front_measure": "0.00",
+      "geo_lat": "-34.5587461798",
+      "geo_long": "-58.4648425467",
+      "gm_location_type": "BY_HAND",
+      "has_temporary_rent": false,
+      "id": 6756422,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [
+          {
+            "cellphone": " 54 9 11 7066-3591",
+            "email": "manuela.azcona@roilands.com",
+            "id": 84555,
+            "name": "Manuela Rocio Azcona",
+            "phone": "",
+            "picture": "https://static.tokkobroker.com/userprofile/pictures/82340_75001840359599198128711757787176557046954672345042295262417304065891453198903.jpg",
+            "position": ""
+          }
+        ],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "23.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "1134517577",
+            "created_at": "2022-11-28T01:50:27",
+            "document_number": "",
+            "email": "mariano.mussi@roilands.com",
+            "id": 33098108,
+            "name": "Mariano Mussi (moira)",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2025-02-05T15:48:35",
+            "work_email": "mariano.mussi@roilands.com"
+          }
+        ],
+        "transaction_requirements": ""
+      },
+      "is_denounced": false,
+      "is_starred_on_web": true,
+      "legally_checked": "Unknown",
+      "location": {
+        "divisions": [
+          {
+            "id": 24683,
+            "name": "Belgrano Barrancas",
+            "resource_uri": "/api/v1/location/24683/"
+          },
+          {
+            "id": 24684,
+            "name": "Belgrano C",
+            "resource_uri": "/api/v1/location/24684/"
+          },
+          {
+            "id": 24685,
+            "name": "Belgrano Chico",
+            "resource_uri": "/api/v1/location/24685/"
+          },
+          {
+            "id": 24686,
+            "name": "Belgrano R",
+            "resource_uri": "/api/v1/location/24686/"
+          },
+          {
+            "id": 255601,
+            "name": "Barrio Chino",
+            "resource_uri": "/api/v1/location/255601/"
+          }
+        ],
+        "full_location": "Argentina | Capital Federal | Belgrano ",
+        "id": 24682,
+        "name": "Belgrano",
+        "parent_division": null,
+        "short_location": "Argentina | Capital Federal | Belgrano ",
+        "state": "/api/v1/state/146/",
+        "weight": 32767,
+        "zip_code": null
+      },
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 1,
+          "operation_type": "Sale",
+          "prices": [
+            {
+              "currency": "USD",
+              "period": 0,
+              "price": 86000
+            }
+          ]
+        }
+      ],
+      "orientation": "South-West",
+      "parking_lot_amount": 0,
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756422_40895543678913728070314211860560345734526277791639222337887303813547102277203.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/6756422_40895543678913728070314211860560345734526277791639222337887303813547102277203.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756422_40895543678913728070314211860560345734526277791639222337887303813547102277203_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756422_67437121326246168065192961533664689825375341526022312640330571872237538800214.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/6756422_67437121326246168065192961533664689825375341526022312640330571872237538800214.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756422_67437121326246168065192961533664689825375341526022312640330571872237538800214_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756422_61018679395135051143580287585934429179577870621323066926608329460847758896533.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/6756422_61018679395135051143580287585934429179577870621323066926608329460847758896533.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756422_61018679395135051143580287585934429179577870621323066926608329460847758896533_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756422_111572519768685696415743444482694270466991006651977966665081593869881832564066.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/6756422_111572519768685696415743444482694270466991006651977966665081593869881832564066.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756422_111572519768685696415743444482694270466991006651977966665081593869881832564066_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756422_42980877456628959250278962362030833034623254369062091062769806988802658152006.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/6756422_42980877456628959250278962362030833034623254369062091062769806988802658152006.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756422_42980877456628959250278962362030833034623254369062091062769806988802658152006_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756422_35653072697840056924983087605136533846912685691356678066796214102665507515977.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/6756422_35653072697840056924983087605136533846912685691356678066796214102665507515977.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756422_35653072697840056924983087605136533846912685691356678066796214102665507515977_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756422_93069286084343154487029432487745853038944506854293234091748632302519535983341.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/6756422_93069286084343154487029432487745853038944506854293234091748632302519535983341.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756422_93069286084343154487029432487745853038944506854293234091748632302519535983341_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756422_71036696368293703214669312799612829691720922539214300916487526896307636148657.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/original_pictures/6756422_71036696368293703214669312799612829691720922539214300916487526896307636148657.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756422_71036696368293703214669312799612829691720922539214300916487526896307636148657_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756422_107527177216710397809915025293755244406281993160300136471660545210481794172115.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/6756422_107527177216710397809915025293755244406281993160300136471660545210481794172115.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756422_107527177216710397809915025293755244406281993160300136471660545210481794172115_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756422_20912366396811412365296782557963213752200706367482997518030260254942112167347.jpg",
+          "is_blueprint": true,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/original_pictures/6756422_20912366396811412365296782557963213752200706367482997518030260254942112167347.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756422_20912366396811412365296782557963213752200706367482997518030260254942112167347_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756422_104638146420270854407729843071455896671082971094182178238248082163391710582770.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/original_pictures/6756422_104638146420270854407729843071455896671082971094182178238248082163391710582770.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756422_104638146420270854407729843071455896671082971094182178238248082163391710582770_thumb.jpg"
+        }
+      ],
+      "producer": {
+        "cellphone": "2664561845",
+        "email": "nicolas.lettieri@roilands.com",
+        "id": 85612,
+        "name": "Nicolas Lettieri",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/userprofile/pictures/profile_picture-85612-0a1fc04c39a02e148bbaabfe095f22e4.jpeg",
+        "position": ""
+      },
+      "property_condition": "Excellent",
+      "public_url": "https://ficha.info/p/eCvOIdwq0n9Q1a",
+      "publication_title": "Venta a estrenar Depto 1 Ambientes  en Belgrano",
+      "real_address": "Rivera 2799 - 1 Amb. Depto C",
+      "reference_code": "RAP6756422",
+      "rich_description": "\n\nLas medidas son aproximadas y orientativas. Las medidas exactas surgir\u00e1n del t\u00edtulo de propiedad.\nVenta supeditada al cumplimiento por parte del propietario de los requisitos de la Resoluci\u00f3n General 2371 de la AFIP.\n\nPara los casos de alquiler de vivienda en CABA, el monto m\u00e1ximo de comisi\u00f3n que se le puede requerir a los propietarios ser\u00e1 el equivalente al cuatro con quince cent\u00e9simos por ciento (4,15%) del valor total del respectivo contrato. Se encuentra prohibido cobrar a los inquilinos que sean personas f\u00edsicas comisiones inmobiliarias y gastos de gestor\u00eda de informes\n\nEn cumplimiento de las leyes provinciales vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del C\u00f3digo Civil y Comercial de la Naci\u00f3n y Constitucionales, los asesores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediaci\u00f3n y conclusi\u00f3n por parte de los martilleros y corredores colegiados, cuyos datos se exhiben debajo del nombre de la inmobiliaria.\n\n\nROILANDS - Encontr\u00e1  tu Lugar \nCorredor responsable Capital : Mariano Mussi C.U.C.I.C.B.A Nro. 4065\nCorredor responsable Provincia: Nicol\u00e1s Mussi Colegiado S.I. Nro. 6443",
+      "roofed_surface": "27.00",
+      "room_amount": 1,
+      "semiroofed_surface": "6.00",
+      "situation": "Empty",
+      "status": 2,
+      "suite_amount": 1,
+      "surface": "33.00",
+      "surface_measurement": "M2",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Water",
+          "type": 1
+        },
+        {
+          "id": 2,
+          "name": "Sewage",
+          "type": 1
+        },
+        {
+          "id": 3,
+          "name": "Natural Gas",
+          "type": 1
+        },
+        {
+          "id": 4,
+          "name": "Internet",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricity",
+          "type": 1
+        },
+        {
+          "id": 6,
+          "name": "Pavement",
+          "type": 1
+        },
+        {
+          "id": 10,
+          "name": "Balcony",
+          "type": 2
+        },
+        {
+          "id": 12,
+          "name": "Kitchen",
+          "type": 2
+        },
+        {
+          "id": 22,
+          "name": "Dining lounge",
+          "type": 2
+        },
+        {
+          "id": 31,
+          "name": "Heating",
+          "type": 3
+        },
+        {
+          "id": 46,
+          "name": "Pets allowed",
+          "type": 3
+        },
+        {
+          "id": 203,
+          "name": "Pre-installed Air-Conditioning",
+          "type": 3
+        },
+        {
+          "id": 1322,
+          "name": "Electric Gates",
+          "type": 3
+        },
+        {
+          "id": 1512,
+          "name": "Individual heating",
+          "type": 3
+        },
+        {
+          "id": 1513,
+          "name": "Air Heating",
+          "type": 3
+        },
+        {
+          "id": 1527,
+          "name": "Optional parking",
+          "type": 3
+        }
+      ],
+      "toilet_amount": 0,
+      "total_surface": "33.00",
+      "transaction_requirements": "",
+      "type": {
+        "code": "AP",
+        "id": 2,
+        "name": "Apartment"
+      },
+      "unroofed_surface": "0.00",
+      "videos": [
+        {
+          "description": "Rivera 2799 1 AMB",
+          "id": 1613994,
+          "order": 1,
+          "player_url": "https://www.youtube.com/embed/3pEminjNVlw",
+          "provider": "youtube",
+          "provider_id": 2,
+          "title": "Rivera 2799 1 Amb",
+          "url": "https://www.youtube.com/watch?v=3pEminjNVlw",
+          "video_id": "3pEminjNVlw"
+        }
+      ],
+      "web_price": true,
+      "zonification": ""
+    },
+    {
+      "address": "Rivera 2799",
+      "age": 0,
+      "bathroom_amount": 1,
+      "branch": {
+        "address": "Av. Libertador 6810 p.16",
+        "alternative_phone": "26663923",
+        "alternative_phone_area": "11",
+        "alternative_phone_country_code": "+549",
+        "alternative_phone_extension": "",
+        "branch_type": "Internal",
+        "contact_time": "De L a V 9 a 19Hs",
+        "created_date": "2023-07-07T15:05:06",
+        "display_name": "Suc. Financiados",
+        "email": "roilandsi@roilands.com",
+        "geo_lat": "-34.5494856",
+        "geo_long": "-58.4542488",
+        "gm_location_type": "ROOFTOP",
+        "id": 59747,
+        "is_default": false,
+        "logo": "https://static.tokkobroker.com/logos/460/2959334292724063981536339718550467080049434269670860098013983575663663243148.jpg",
+        "name": "Suc. Financiados",
+        "pdf_footer_text": "",
+        "phone": "5217-2265",
+        "phone_area": "",
+        "phone_country_code": "",
+        "phone_extension": "",
+        "use_pdf_footer": false
+      },
+      "created_at": "2025-02-05T14:36:59",
+      "custom1": "0.00",
+      "custom_tags": [],
+      "deleted_at": "2025-04-28T15:56:58",
+      "depth_measure": "0.00",
+      "description": "\n\nLas medidas son aproximadas y orientativas. Las medidas exactas surgir\u00e1n del t\u00edtulo de propiedad.\nVenta supeditada al cumplimiento por parte del propietario de los requisitos de la Resoluci\u00f3n General 2371 de la AFIP.\n\nPara los casos de alquiler de vivienda en CABA, el monto m\u00e1ximo de comisi\u00f3n que se le puede requerir a los propietarios ser\u00e1 el equivalente al cuatro con quince cent\u00e9simos por ciento (4,15%) del valor total del respectivo contrato. Se encuentra prohibido cobrar a los inquilinos que sean personas f\u00edsicas comisiones inmobiliarias y gastos de gestor\u00eda de informes\n\nEn cumplimiento de las leyes provinciales vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del C\u00f3digo Civil y Comercial de la Naci\u00f3n y Constitucionales, los asesores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediaci\u00f3n y conclusi\u00f3n por parte de los martilleros y corredores colegiados, cuyos datos se exhiben debajo del nombre de la inmobiliaria.\n\n\nROILANDS - Encontr\u00e1  tu Lugar \nCorredor responsable Capital : Mariano Mussi C.U.C.I.C.B.A Nro. 4065\nCorredor responsable Provincia: Nicol\u00e1s Mussi Colegiado S.I. Nro. 6443",
+      "description_only": "",
+      "development": null,
+      "development_excel_extra_data": "[]",
+      "disposition": "Front",
+      "expenses": 60000,
+      "extra_attributes": [],
+      "fake_address": "Rivera 2799",
+      "files": [],
+      "floors_amount": 1,
+      "footer": "Las medidas son aproximadas y orientativas. Las medidas exactas surgir\u00e1n del t\u00edtulo de propiedad.\nVenta supeditada al cumplimiento por parte del propietario de los requisitos de la Resoluci\u00f3n General 2371 de la AFIP.\n\nPara los casos de alquiler de vivienda en CABA, el monto m\u00e1ximo de comisi\u00f3n que se le puede requerir a los propietarios ser\u00e1 el equivalente al cuatro con quince cent\u00e9simos por ciento (4,15%) del valor total del respectivo contrato. Se encuentra prohibido cobrar a los inquilinos que sean personas f\u00edsicas comisiones inmobiliarias y gastos de gestor\u00eda de informes\n\nEn cumplimiento de las leyes provinciales vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del C\u00f3digo Civil y Comercial de la Naci\u00f3n y Constitucionales, los asesores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediaci\u00f3n y conclusi\u00f3n por parte de los martilleros y corredores colegiados, cuyos datos se exhiben debajo del nombre de la inmobiliaria.\n\n\nROILANDS - Encontr\u00e1  tu Lugar \nCorredor responsable Capital : Mariano Mussi C.U.C.I.C.B.A Nro. 4065\nCorredor responsable Provincia: Nicol\u00e1s Mussi Colegiado S.I. Nro. 6443",
+      "front_measure": "0.00",
+      "geo_lat": "-34.5587461798",
+      "geo_long": "-58.4648425467",
+      "gm_location_type": "BY_HAND",
+      "has_temporary_rent": false,
+      "id": 6756270,
+      "internal_data": {
+        "commission": "",
+        "cotization_users": [
+          {
+            "cellphone": " 54 9 11 7066-3591",
+            "email": "manuela.azcona@roilands.com",
+            "id": 84555,
+            "name": "Manuela Rocio Azcona",
+            "phone": "",
+            "picture": "https://static.tokkobroker.com/userprofile/pictures/82340_75001840359599198128711757787176557046954672345042295262417304065891453198903.jpg",
+            "position": ""
+          }
+        ],
+        "internal_comments": "",
+        "key_location": "Unknown",
+        "legally_checked": 3,
+        "legally_checked_text": "",
+        "maintenance_user": "",
+        "network_information": "",
+        "producer_comision": "23.00",
+        "property_owners": [
+          {
+            "birthdate": null,
+            "cellphone": "1134517577",
+            "created_at": "2022-11-28T01:50:27",
+            "document_number": "",
+            "email": "mariano.mussi@roilands.com",
+            "id": 33098108,
+            "name": "Mariano Mussi (moira)",
+            "other_email": "",
+            "other_phone": "",
+            "phone": "",
+            "updated_at": "2025-02-05T15:48:35",
+            "work_email": "mariano.mussi@roilands.com"
+          }
+        ],
+        "transaction_requirements": ""
+      },
+      "is_denounced": false,
+      "is_starred_on_web": true,
+      "legally_checked": "Unknown",
+      "location": {
+        "divisions": [
+          {
+            "id": 24683,
+            "name": "Belgrano Barrancas",
+            "resource_uri": "/api/v1/location/24683/"
+          },
+          {
+            "id": 24684,
+            "name": "Belgrano C",
+            "resource_uri": "/api/v1/location/24684/"
+          },
+          {
+            "id": 24685,
+            "name": "Belgrano Chico",
+            "resource_uri": "/api/v1/location/24685/"
+          },
+          {
+            "id": 24686,
+            "name": "Belgrano R",
+            "resource_uri": "/api/v1/location/24686/"
+          },
+          {
+            "id": 255601,
+            "name": "Barrio Chino",
+            "resource_uri": "/api/v1/location/255601/"
+          }
+        ],
+        "full_location": "Argentina | Capital Federal | Belgrano ",
+        "id": 24682,
+        "name": "Belgrano",
+        "parent_division": null,
+        "short_location": "Argentina | Capital Federal | Belgrano ",
+        "state": "/api/v1/state/146/",
+        "weight": 32767,
+        "zip_code": null
+      },
+      "occupation": [],
+      "operations": [
+        {
+          "operation_id": 1,
+          "operation_type": "Sale",
+          "prices": [
+            {
+              "currency": "USD",
+              "period": 0,
+              "price": 132500
+            }
+          ]
+        }
+      ],
+      "orientation": "North-West",
+      "parking_lot_amount": 0,
+      "photos": [
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756270_96711471541552024569942952124075661944144375036242513728012268793134931371658.jpg",
+          "is_blueprint": false,
+          "is_front_cover": true,
+          "order": 0,
+          "original": "https://static.tokkobroker.com/original_pictures/6756270_96711471541552024569942952124075661944144375036242513728012268793134931371658.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756270_96711471541552024569942952124075661944144375036242513728012268793134931371658_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756270_37982455404669870745745735939905482637641073799261371832790619730261481879459.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 1,
+          "original": "https://static.tokkobroker.com/original_pictures/6756270_37982455404669870745745735939905482637641073799261371832790619730261481879459.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756270_37982455404669870745745735939905482637641073799261371832790619730261481879459_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756270_84621258761602173688562090642878803387307631997473182257989034059663731760242.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 2,
+          "original": "https://static.tokkobroker.com/original_pictures/6756270_84621258761602173688562090642878803387307631997473182257989034059663731760242.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756270_84621258761602173688562090642878803387307631997473182257989034059663731760242_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756270_105289906617767714073341684566710363304798480259424199576157122704133009986860.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 3,
+          "original": "https://static.tokkobroker.com/original_pictures/6756270_105289906617767714073341684566710363304798480259424199576157122704133009986860.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756270_105289906617767714073341684566710363304798480259424199576157122704133009986860_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756270_112187430708367596662893031097603224196054670732945346594289782844133152615117.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 4,
+          "original": "https://static.tokkobroker.com/original_pictures/6756270_112187430708367596662893031097603224196054670732945346594289782844133152615117.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756270_112187430708367596662893031097603224196054670732945346594289782844133152615117_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756270_45958781613142905558728620837804877254800698876549541294131727932738842475963.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 5,
+          "original": "https://static.tokkobroker.com/original_pictures/6756270_45958781613142905558728620837804877254800698876549541294131727932738842475963.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756270_45958781613142905558728620837804877254800698876549541294131727932738842475963_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756270_56734181286260585593610155599177554630968866503110861826125527667723319139784.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 6,
+          "original": "https://static.tokkobroker.com/original_pictures/6756270_56734181286260585593610155599177554630968866503110861826125527667723319139784.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756270_56734181286260585593610155599177554630968866503110861826125527667723319139784_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756270_76298498757293101536328919479653952345216364747001062279139824504491300543352.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 7,
+          "original": "https://static.tokkobroker.com/original_pictures/6756270_76298498757293101536328919479653952345216364747001062279139824504491300543352.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756270_76298498757293101536328919479653952345216364747001062279139824504491300543352_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756270_51152722412214867568748027922446866237208740764441168662685192609895524043783.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 8,
+          "original": "https://static.tokkobroker.com/original_pictures/6756270_51152722412214867568748027922446866237208740764441168662685192609895524043783.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756270_51152722412214867568748027922446866237208740764441168662685192609895524043783_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756270_1185069694419041513797359039446810531680757446054731770127068113221673015462.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 9,
+          "original": "https://static.tokkobroker.com/original_pictures/6756270_1185069694419041513797359039446810531680757446054731770127068113221673015462.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756270_1185069694419041513797359039446810531680757446054731770127068113221673015462_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756270_53309587801874866433309794387224349461623854220454263056712117874140990235287.jpg",
+          "is_blueprint": false,
+          "is_front_cover": false,
+          "order": 10,
+          "original": "https://static.tokkobroker.com/original_pictures/6756270_53309587801874866433309794387224349461623854220454263056712117874140990235287.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756270_53309587801874866433309794387224349461623854220454263056712117874140990235287_thumb.jpg"
+        },
+        {
+          "description": null,
+          "image": "https://static.tokkobroker.com/w_pics/6756270_75300565198098410746964025169180021762087865106759299180457600456321003422156.jpg",
+          "is_blueprint": true,
+          "is_front_cover": false,
+          "order": 11,
+          "original": "https://static.tokkobroker.com/original_pictures/6756270_75300565198098410746964025169180021762087865106759299180457600456321003422156.jpg",
+          "thumb": "https://static.tokkobroker.com/thumbs/6756270_75300565198098410746964025169180021762087865106759299180457600456321003422156_thumb.jpg"
+        }
+      ],
+      "producer": {
+        "cellphone": "2664561845",
+        "email": "nicolas.lettieri@roilands.com",
+        "id": 85612,
+        "name": "Nicolas Lettieri",
+        "phone": "",
+        "picture": "https://static.tokkobroker.com/userprofile/pictures/profile_picture-85612-0a1fc04c39a02e148bbaabfe095f22e4.jpeg",
+        "position": ""
+      },
+      "property_condition": "Excellent",
+      "public_url": "https://ficha.info/p/eCvMgdwq0n9PNa",
+      "publication_title": "Venta a estrenar Departamento 2 Ambientes  en Belgrano",
+      "real_address": "Rivera 2799 - 2 Amb. Depto A",
+      "reference_code": "RAP6756270",
+      "rich_description": "\n\nLas medidas son aproximadas y orientativas. Las medidas exactas surgir\u00e1n del t\u00edtulo de propiedad.\nVenta supeditada al cumplimiento por parte del propietario de los requisitos de la Resoluci\u00f3n General 2371 de la AFIP.\n\nPara los casos de alquiler de vivienda en CABA, el monto m\u00e1ximo de comisi\u00f3n que se le puede requerir a los propietarios ser\u00e1 el equivalente al cuatro con quince cent\u00e9simos por ciento (4,15%) del valor total del respectivo contrato. Se encuentra prohibido cobrar a los inquilinos que sean personas f\u00edsicas comisiones inmobiliarias y gastos de gestor\u00eda de informes\n\nEn cumplimiento de las leyes provinciales vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del C\u00f3digo Civil y Comercial de la Naci\u00f3n y Constitucionales, los asesores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediaci\u00f3n y conclusi\u00f3n por parte de los martilleros y corredores colegiados, cuyos datos se exhiben debajo del nombre de la inmobiliaria.\n\n\nROILANDS - Encontr\u00e1  tu Lugar \nCorredor responsable Capital : Mariano Mussi C.U.C.I.C.B.A Nro. 4065\nCorredor responsable Provincia: Nicol\u00e1s Mussi Colegiado S.I. Nro. 6443",
+      "roofed_surface": "40.00",
+      "room_amount": 2,
+      "semiroofed_surface": "6.00",
+      "situation": "Empty",
+      "status": 2,
+      "suite_amount": 1,
+      "surface": "46.00",
+      "surface_measurement": "M2",
+      "tags": [
+        {
+          "id": 1,
+          "name": "Water",
+          "type": 1
+        },
+        {
+          "id": 2,
+          "name": "Sewage",
+          "type": 1
+        },
+        {
+          "id": 3,
+          "name": "Natural Gas",
+          "type": 1
+        },
+        {
+          "id": 4,
+          "name": "Internet",
+          "type": 1
+        },
+        {
+          "id": 5,
+          "name": "Electricity",
+          "type": 1
+        },
+        {
+          "id": 6,
+          "name": "Pavement",
+          "type": 1
+        },
+        {
+          "id": 10,
+          "name": "Balcony",
+          "type": 2
+        },
+        {
+          "id": 12,
+          "name": "Kitchen",
+          "type": 2
+        },
+        {
+          "id": 22,
+          "name": "Dining lounge",
+          "type": 2
+        },
+        {
+          "id": 31,
+          "name": "Heating",
+          "type": 3
+        },
+        {
+          "id": 46,
+          "name": "Pets allowed",
+          "type": 3
+        },
+        {
+          "id": 203,
+          "name": "Pre-installed Air-Conditioning",
+          "type": 3
+        },
+        {
+          "id": 1065,
+          "name": "Blinds",
+          "type": 3
+        },
+        {
+          "id": 1322,
+          "name": "Electric Gates",
+          "type": 3
+        },
+        {
+          "id": 1512,
+          "name": "Individual heating",
+          "type": 3
+        },
+        {
+          "id": 1513,
+          "name": "Air Heating",
+          "type": 3
+        },
+        {
+          "id": 1527,
+          "name": "Optional parking",
+          "type": 3
+        },
+        {
+          "id": 1555,
+          "name": "Balcony terrace",
+          "type": 3
+        }
+      ],
+      "toilet_amount": 0,
+      "total_surface": "46.00",
+      "transaction_requirements": "",
+      "type": {
+        "code": "AP",
+        "id": 2,
+        "name": "Apartment"
+      },
+      "unroofed_surface": "0.00",
+      "videos": [
+        {
+          "description": "2 Ambientes Depto A",
+          "id": 1613946,
+          "order": 1,
+          "player_url": "https://www.youtube.com/embed/O4hMaWI66hw",
+          "provider": "youtube",
+          "provider_id": 2,
+          "title": "Rivera 2799 2Amb Depto A",
+          "url": "https://www.youtube.com/watch?v=O4hMaWI66hw",
+          "video_id": "O4hMaWI66hw"
+        }
+      ],
+      "web_price": true,
+      "zonification": ""
+    }
+  ]
+}
